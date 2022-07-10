@@ -1,1 +1,2 @@
 !aws-lambda-return-from-json/*.json
+.vscode/launch.json
