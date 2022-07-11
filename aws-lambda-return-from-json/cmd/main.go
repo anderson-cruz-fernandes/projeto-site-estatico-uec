@@ -1,6 +1,8 @@
 package main
 
 import (
+	"handlers/pkg/handlers"
+
 	"github.com/aws/aws-lambda-go/events"
 	"github.com/aws/aws-lambda-go/lambda"
 )
@@ -32,7 +34,7 @@ defer jsonFile.Close()*/
 func handler(req events.APIGatewayProxyRequest) (*events.APIGatewayProxyResponse, error) {
 	switch req.HTTPMethod {
 	case "POST":
-		return handlers.GetUser(req)
+		return handlers.BuscaAluno(req)
 	default:
 		return handlers.UnhandledMethod()
 	}
