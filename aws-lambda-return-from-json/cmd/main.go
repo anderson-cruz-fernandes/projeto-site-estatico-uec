@@ -29,7 +29,7 @@ fmt.Println("Successfully Opened links.json")
 // defer the closing of our jsonFile so that we can parse it later on
 defer jsonFile.Close()*/
 
-type usuario struct {
+type aluno struct {
 	Nome   string
 	Turma  string
 	Link   string
@@ -38,9 +38,9 @@ type usuario struct {
 }
 
 //go:embed links.json
-var usuariosFile []byte
-var usuariosFunc = func() (usuarios []usuario) {
-	if err := json.Unmarshal(usuariosFile, &usuarios); err != nil {
+var alunosFile []byte
+var alunosFunc = func() (alunos []aluno) {
+	if err := json.Unmarshal(alunosFile, &alunos); err != nil {
 		panic(err)
 	}
 	return
@@ -48,13 +48,13 @@ var usuariosFunc = func() (usuarios []usuario) {
 
 //byteValue, _ := ioutil.ReadAll(jsonFile)
 func main() {
-	//var usuarios []Usuario
-	var usuarios = usuariosFunc
+	//var alunos []aluno
+	var alunos = alunosFunc
 
-	//fmt.Printf("%+v\n", usuariosFunc)
-	//fmt.Println("tipo: \n", reflect.TypeOf(usuariosFunc))
+	//fmt.Printf("%+v\n", alunosFunc)
+	//fmt.Println("tipo: \n", reflect.TypeOf(alunosFunc))
 
-	/*err = json.Unmarshal(byteValue, &usuarios)
+	/*err = json.Unmarshal(byteValue, &alunos)
 	if err != nil {
 		fmt.Println(err)
 	}*/
@@ -63,10 +63,10 @@ func main() {
 	resultado := "0"
 
 	//#############################
-	for i := range usuarios {
-		if usuarios[i].Pedido == busca {
-			//fmt.Println(usuarios[i].Hash)
-			resultado = usuarios[i].Hash
+	for i := range alunos {
+		if alunos[i].Pedido == busca {
+			//fmt.Println(alunos[i].Hash)
+			resultado = alunos[i].Hash
 			break
 		}
 	}
@@ -79,7 +79,7 @@ func main() {
 	//Also if this is a frequent operation
 	// Build a config map:
 	/*confMap := map[string]string{}
-	for _, v := range usuarios {
+	for _, v := range alunos {
 		confMap[v.Pedido] = v.Hash
 	}
 
