@@ -1,4 +1,3 @@
-!aws-lambda-return-from-json/*.json
 .vscode/launch.json
 build/
-aws-lambda-return-from-json/pkg/aluno/links.json
+_site/
