@@ -1,0 +1,14 @@
+const site = require('./src/_data/site.json');
+
+module.exports = function(eleventyConfig) {
+
+  eleventyConfig.addPassthroughCopy('./src/style.css');
+  eleventyConfig.addPassthroughCopy('./src/assets');
+
+  return {
+    dir: {
+      input: "src",
+      output: "_site"
+    }
+  };
+}

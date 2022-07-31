@@ -1,0 +1,24 @@
+{
+  "name": "projeto-site-estatico-uec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anderson-cruz-fernandes/projeto-site-estatico-uec.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anderson-cruz-fernandes/projeto-site-estatico-uec/issues"
+  },
+  "homepage": "https://github.com/anderson-cruz-fernandes/projeto-site-estatico-uec#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  }
+}
