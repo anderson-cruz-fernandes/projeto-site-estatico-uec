@@ -60,19 +60,15 @@ layout: 'base.njk'
           <div class="card">
             <div class="card-content center-align">
               <span class="card-title"><a href="/palestras/">Palestras da UEC</a></span>              
-            </div>          
-              <div class="card">
-                <div class="card-content center-align">
-                  <span style='font-weight:bold;'>Quem é seu adversário?</span>
-                  <br>
-                  <a href='/palestras/'><img src='/assets/images/palestrantes/293667789_1222094908566670_5342242713469477106_n_aspecto5-6.jpg' title='Edina Mengali' width='100' height='120'></a><br><i>Edina Mengali</i><br>GETC<br>08/09/2022<br>Quinta-Feira<br>20:00
-                </div>
-              <div class="card">
-                <div class="card-content center-align">
-                  <span style='font-weight:bold;'>Maria de Magdala, discípula do Cristo</span>
-                  <br>
-                  <a href='/palestras/'><img src='/assets/images/palestrantes/298403130_169479775590961_1646488083238373092_n (2).jpg' title='Adriano Moreira' width='100' height='120'></a><br><i>Adriano Moreira</i><br>GETC<br>15/09/2022<br>Quinta-Feira<br>20:00
-                </div>               
+            </div>
+            {%- for palestrante in collections.palestrante reversed -%}
+            <div class="card">              
+              <div class="card-content center-align">
+                <span style='font-weight:bold;'>{{ palestrante.data.tema }}</span>
+                <br>
+                <a href='/palestras/'><img src='{{ palestrante.data.foto }}' title='{{ palestrante.data.nome }}' width='100' height='120'></a><br><i>{{ palestrante.data.nome }}</i><br>GETC<br>{{ palestrante.data.data | postDate }}<br>{{ palestrante.data.dia_semana }}<br>{{ palestrante.data.data | postHour }}
+              </div>
+            {%- endfor %}                      
             </div>
             
           </div>
@@ -81,12 +77,12 @@ layout: 'base.njk'
 
 
         <!-- REDES SOCIAIS -->
-                    <div class="row">
+        <div class="row">
           <div class="card">
             <div class="card-content center-align">
               <span class="card-title">Redes Sociais</span>
               <br>
-              <a href='https://www.facebook.com/uecvv' target='_blank'><img src='/assets/images/redes_sociais/icon_facebook.png' height='80'></a>  <a href='https://instagram.com/uniaoespiritacrista' target='_blank'><img src='/assets/images/redes_sociais/Instagram_AppIcon_Aug2017.png' height='80'></a>  <a href='https://www.youtube.com/channel/UCNqCsZir_8jtUq3ZRBmJcvA' target='_blank'><img src='/assets/images/redes_sociais/icon_youtube.png' height='80'></a>
+              <a href='{{ site.facebookUrl }}' target='_blank'><img src='{{ site.facebookImg }}' height='80'></a>  <a href='{{ site.instagramUrl }}' target='_blank'><img src='{{ site.instagramImg }}' height='80'></a>  <a href='{{ site.youtubeUrl }}' target='_blank'><img src='{{ site.youtubeImg }}' height='80'></a>
             </div>
           </div>
         </div>
