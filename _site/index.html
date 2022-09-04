@@ -3,52 +3,79 @@
   <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My homepage</title>
-  <link rel="icon" type="image/png" href="/assets/images/logo.ico">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+  <link rel="icon" type="image/png" href="/assets/images/favicon.ico">
+
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="/assets/css/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="/assets/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <title>União Espírita Cristã</title>
 </head>
 <body>
   <nav id="header" class=" fixed w-full z-10 top-0 bg-gray-100 shadow-md ">
-  <div class="w-full container mx-auto flex flex-wrap items-center justify-between mt-0 py-4  ">
-    <div class="pl-4 flex items-center">
-      <img src="/assets/images/logo.png" alt="Logo" class="h-5 mr-1"/>
-      <a  href="/ " class="no-underline hover:no-underline font-extrabold text-xl" >
-        União Espírita Cristã
-      </a>
-    </div>
-    <div class="block md:hidden pr-4">
-      <button id="nav-toggle" class="flex items-center px-3 py-2 border rounded text-gray-500 border-gray-600 hover:text-gray-900 hover:border-purple-500 appearance-none focus:outline-none">
-        <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-          <title>Menu</title>
-          <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/>
-        </svg>
-      </button>
-    </div>
-    <div class="w-full flex-grow md:flex  md:content-center md:items-center md:w-auto hidden mt-2 md:mt-0 z-20" id="nav-content">
-      <div class="flex-1 w-full mx-auto max-w-sm content-center py-4 md:py-0">
-      
-      </div>
-      <ul class="list-reset md:flex justify-end items-center list-none text-sm">
-        
-      </ul>
-    </div>
-  </div>
-</nav>
+	<div class="nav-wrapper container">
+		<a id="logo-container" href="/" class="brand-logo">
+			<img class="responsive-img" src="/assets/images/logo.png">
+		</a>
+		<ul class="right hide-on-med-and-down">
+			<li><a href='/'>Início</a></li><li><a href='/a_uec/'>A UEC</a></li><li><a href='/atividades/'>Atividades</a></li><li><a href='/calendario/'>Calendário</a></li><li><a href='/palestras/'>Palestras</a></li><li><a href='/cursos/'>Cursos</a></li><li><a href='/jornais/'>Jornal</a></li><li><a href='/contato/'>Contato</a></li>		</ul>
 
+		<ul id="nav-mobile" class="side-nav">
+			<li><a href='/'>Início</a></li><li><a href='/a_uec/'>A UEC</a></li><li><a href='/atividades/'>Atividades</a></li><li><a href='/calendario/'>Calendário</a></li><li><a href='/palestras/'>Palestras</a></li><li><a href='/cursos/'>Cursos</a></li><li><a href='/jornais/'>Jornal</a></li><li><a href='/contato/'>Contato</a></li>		</ul>
+		<a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+	</div>
+</nav>
   <main>
     
   </main>
-  <footer class="w-full bg-gray-100 mt-6 p-2 border-t-1 border-gray-300">
-  <div class="w-full container mx-auto flex flex-col items-center justify-center text-sm text-gray-600">
-    <div class="block">
-      União Espírita Cristã.
-    </div>
-    <div>
-      Site generator based on <a href="https://github.com/creasoft-dev/fundamenty">Fundamenty</a> by <a href="https://creasoft.dev/">CreaSoft.dev</a>.
-      Powered by <a href="https://www.11ty.dev/" >Eleventy</a>
-    </div>
+  <footer class="page-footer teal">
+  <div class="container">
+		<div class="row">
+			<div class="col l6 s12">
+				<h5 class="white-text">União Espírita Cristã</h5>
+				<p class="grey-text text-lighten-4">
+					Rua Antônio Ataíde, 445 - Centro – Vila Velha – ES
+					<br>
+					Cep.: 29.100-295
+					<br>
+					+55 (27) 3229-1433
+				</p>
+			</div>
+			<div class="col l3 s12">
+				<h5 class="white-text">Opções</h5>
+				<ul>
+					<li><a class='white-text' href='/'>Início</a></li><li><a class='white-text' href='/a_uec/'>A UEC</a></li><li><a class='white-text' href='/atividades/'>Atividades</a></li><li><a class='white-text' href='/calendario/'>Calendário</a></li><li><a class='white-text' href='/palestras/'>Palestras</a></li><li><a class='white-text' href='/cursos/'>Cursos</a></li><li><a class='white-text' href='/jornais/'>Jornal</a></li><li><a class='white-text' href='/contato/'>Contato</a></li>
+        </ul>
+			</div>
+			<div class="col l3 s12">
+				<h5 class="white-text">Links Interessantes</h5>
+				<ul>
+					<li><a class="white-text" href="http://www.feees.org.br" target="_blank">FEEES</a></li>
+					<li><a class="white-text" href="http://www.febnet.org.br/blog/geral/pesquisas/downloads-material-completo/" target="_blank">Revista Espírita</a></li>
+					<li><a class="white-text" href="http://www.redeamigoespirita.com.br/" target="_blank">Rede Amigo Espírita</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="footer-copyright">
+		<div class="container">
+			Desenvolvido pela equipe UEC com tecnologia <a class="brown-text text-lighten-3" href="http://materializecss.com">Materialize</a>
+		</div>
   </div>
-</footer>
 
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+	<script src="/assets/js/materialize.min.js"></script>
+	<script src="/assets/js/init.js"></script>
+  <script>
+    $(document).ready(function(){
+        $('.slider').slider({
+          indicators: true,
+          interval: 3000,
+          //height: 300,
+          transition: 250,
+        });
+    });
+  </script>
+</footer>
 </body>
 </html>

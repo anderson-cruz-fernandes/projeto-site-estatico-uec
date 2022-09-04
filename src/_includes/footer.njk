@@ -1,11 +1,49 @@
-<footer class="w-full bg-gray-100 mt-6 p-2 border-t-1 border-gray-300">
-  <div class="w-full container mx-auto flex flex-col items-center justify-center text-sm text-gray-600">
-    <div class="block">
-      {{ site.name }}.
-    </div>
-    <div>
-      Site generator based on <a href="https://github.com/creasoft-dev/fundamenty">Fundamenty</a> by <a href="https://creasoft.dev/">CreaSoft.dev</a>.
-      Powered by <a href="https://www.11ty.dev/" >Eleventy</a>
-    </div>
+<footer class="page-footer teal">
+  <div class="container">
+		<div class="row">
+			<div class="col l6 s12">
+				<h5 class="white-text">União Espírita Cristã</h5>
+				<p class="grey-text text-lighten-4">
+					Rua Antônio Ataíde, 445 - Centro – Vila Velha – ES
+					<br>
+					Cep.: 29.100-295
+					<br>
+					+55 (27) 3229-1433
+				</p>
+			</div>
+			<div class="col l3 s12">
+				<h5 class="white-text">Opções</h5>
+				<ul>
+					<li><a class='white-text' href='/'>Início</a></li><li><a class='white-text' href='/a_uec/'>A UEC</a></li><li><a class='white-text' href='/atividades/'>Atividades</a></li><li><a class='white-text' href='/calendario/'>Calendário</a></li><li><a class='white-text' href='/palestras/'>Palestras</a></li><li><a class='white-text' href='/cursos/'>Cursos</a></li><li><a class='white-text' href='/jornais/'>Jornal</a></li><li><a class='white-text' href='/contato/'>Contato</a></li>
+        </ul>
+			</div>
+			<div class="col l3 s12">
+				<h5 class="white-text">Links Interessantes</h5>
+				<ul>
+					<li><a class="white-text" href="http://www.feees.org.br" target="_blank">FEEES</a></li>
+					<li><a class="white-text" href="http://www.febnet.org.br/blog/geral/pesquisas/downloads-material-completo/" target="_blank">Revista Espírita</a></li>
+					<li><a class="white-text" href="http://www.redeamigoespirita.com.br/" target="_blank">Rede Amigo Espírita</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="footer-copyright">
+		<div class="container">
+			Desenvolvido pela equipe UEC com tecnologia <a class="brown-text text-lighten-3" href="http://materializecss.com">Materialize</a>
+		</div>
   </div>
+
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+	<script src="/assets/js/materialize.min.js"></script>
+	<script src="/assets/js/init.js"></script>
+  <script>
+    $(document).ready(function(){
+        $('.slider').slider({
+          indicators: true,
+          interval: 3000,
+          //height: 300,
+          transition: 250,
+        });
+    });
+  </script>
 </footer>
