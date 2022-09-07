@@ -2,10 +2,8 @@
 nome: Zilda Mello
 origem: UEC
 foto: /assets/images/palestrantes/Zilda Mello.jpg
-tema: O Paralítico de Cafarnaum e Nós
-data: 04/08/2022 20:00
+tema: "O Paralítico de Cafarnaum e Nós"
+date: 2022-08-04 20:00:00.0 -3
 dia_semana: Quinta-feira
 link: https://youtu.be/hhZTOzlfp3g
-templateEngineOverride: false
-htmlTemplateEngine: false
 ---

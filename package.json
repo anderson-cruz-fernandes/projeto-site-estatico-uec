@@ -20,5 +20,10 @@
   "homepage": "https://github.com/anderson-cruz-fernandes/projeto-site-estatico-uec#readme",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1"
+  },
+  "dependencies": {
+    "hammerjs": "^2.0.8",
+    "jquery": "^3.6.1",
+    "moment-timezone": "^0.5.37"
   }
 }

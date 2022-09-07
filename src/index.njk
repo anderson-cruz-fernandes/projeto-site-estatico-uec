@@ -61,12 +61,12 @@ layout: 'base.njk'
             <div class="card-content center-align">
               <span class="card-title"><a href="/palestras/">Palestras da UEC</a></span>              
             </div>
-            {%- for palestrante in collections.palestrante reversed -%}
+            {%- for palestra in collections.palestras | exibir(3) -%}
             <div class="card">              
               <div class="card-content center-align">
-                <span style='font-weight:bold;'>{{ palestrante.data.tema }}</span>
+                <span style='font-weight:bold;'>{{ palestra.data.tema }}</span>
                 <br>
-                <a href='/palestras/'><img src='{{ palestrante.data.foto }}' title='{{ palestrante.data.nome }}' width='100' height='120'></a><br><i>{{ palestrante.data.nome }}</i><br>{{ palestrante.data.origem }}<br>{{ palestrante.data.data | postDate }}<br>{{ palestrante.data.dia_semana }}<br>{{ palestrante.data.data | postHour }}
+                <a href='/palestras/'><img src='{{ palestra.data.foto }}' title='{{ palestra.data.nome }}' width='100' height='120'></a><br><i>{{ palestra.data.nome }}</i><br>{{ palestra.data.origem }}<br>{{ palestra.data.date | postDate }}<br>{{ palestra.data.dia_semana }}<br>{{ palestra.data.date | postHour }}
               </div>
             {%- endfor %}                      
             </div>
