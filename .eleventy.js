@@ -3,6 +3,7 @@
 module.exports = function(eleventyConfig) {
 
   //const { DateTime } = require("luxon");
+  const now = new Date();
   var moment = require('moment-timezone');
 
   eleventyConfig.addPassthroughCopy('./src/style.css');
@@ -20,36 +21,15 @@ module.exports = function(eleventyConfig) {
   });
   eleventyConfig.addFilter("postDate", (dateObj) => {
     return moment(dateObj).tz('America/Sao_Paulo').format('DD/MM/yyyy');
-  });
-
+  });  
+  eleventyConfig.addFilter("aPartirDeHoje", function(collection) {
+    return collection.filter(function(item) {      
+      return item.date >= now;
+    });
+  });  
   //https://daily-dev-tips.com/posts/creating-a-custom-eleventy-filter/
-  eleventyConfig.addFilter('exibir', function(array, limit) {
-    return array.slice(array.length-limit);
-  });
-
-  /*eleventyConfig.addCollection("sortByDate5", function(collectionApi) {
-    return collectionApi.getAll().sort(function(a, b) {
-      return b.date - a.date;
-    });
-  });*/
-  /*eleventyConfig.addCollection("sortByDate5", function(collection) {
-    return collection.getAll().sort(function(a, b) {
-      return b.date - a.date;
-    });
-  });*/
-  /*eleventyConfig.addCollection("sortPalestas", function(collection, limit) {
-    let now = new Date();
-    //let count = 0;
-    return collection.getAll().sort(function(a, b) {
-      return b.date > a.date && b.date >= now;
-    });
-  });*/
-  eleventyConfig.addCollection("sortPalestas", function(collection) {
-    let now = new Date();
-    //let count = 0;
-    return collection.getAll().sort(function(a, b) {
-      return b.date > a.date && b.date >= now;
-    });
+  eleventyConfig.addFilter("exibir", function(collection, limit) {
+    return collection.slice(0, limit);
   });
 
   return {
