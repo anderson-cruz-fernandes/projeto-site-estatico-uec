@@ -1,4 +1,5 @@
 //const site = require('./src/_data/site.json');
+//const del = require('del');
 
 module.exports = function(eleventyConfig) {
 
@@ -24,12 +25,32 @@ module.exports = function(eleventyConfig) {
   });  
   eleventyConfig.addFilter("aPartirDeHoje", function(collection) {
     return collection.filter(function(item) {      
-      return item.date >= now;
+      return new Date(item.date) >= now;
     });
   });  
   //https://daily-dev-tips.com/posts/creating-a-custom-eleventy-filter/
   eleventyConfig.addFilter("exibir", function(collection, limit) {
     return collection.slice(0, limit);
+  });
+  eleventyConfig.addFilter("ehTercaFeira", function(collection) {
+    return collection.filter(function(item) {      
+      return new Date(item.date).getDay() === 2;
+    });
+  });
+  eleventyConfig.addFilter("ehQuintaFeira", function(collection) {
+    return collection.filter(function(item) {
+      return new Date(item.date).getDay() === 4;
+    });
+  });
+  eleventyConfig.addFilter("ehSabado", function(collection) {
+    return collection.filter(function(item) {      
+      return new Date(item.date).getDay() === 6;
+    });
+  });
+  eleventyConfig.addFilter("existePalestra", function(collection) {
+    return collection.filter(function(item) {      
+      return item.length != 0;
+    });
   });
 
   return {

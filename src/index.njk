@@ -33,7 +33,6 @@ layout: 'base.njk'
             </div>
           </div>
         </div>
-
         <div class="col s12 m6 l6">
           <div class="card">
             <div class="card-image">
@@ -48,49 +47,32 @@ layout: 'base.njk'
           </div>
         </div>
       </div>
-    </div>
-    <!-- FIM COLUNA CENTRAL -->
-
-    <!-- COLUNA DA DIREITA -->
-    <div class="col s12 m12 l12">
-      <div class="container">
-
-        <!-- PALESTRAS -->
-        <div class="row">
+      <!-- PALESTRAS -->
+      <div class="row">
+        <div class="col s0 m1 l1">&nbsp;</div>
+        <div class="col s12 m10 l10">
           <div class="card">
             <div class="card-content center-align">
               <span class="card-title"><a href="/palestras/">Palestras da UEC</a></span>              
             </div>
-            {%- for palestra in collections.palestras | aPartirDeHoje | exibir(3) -%}
+            {%- for palestra in palestras | aPartirDeHoje | exibir(3) -%}
             <div class="card">              
               <div class="card-content center-align">
-                <span style='font-weight:bold;'>{{ palestra.data.tema }}</span>
+                <span style='font-weight:bold;'>{{ palestra.tema }}</span>
                 <br>
-                <a href='/palestras/'><img src='{{ palestra.data.foto }}' title='{{ palestra.data.nome }}' width='100' height='120'></a><br><i>{{ palestra.data.nome }}</i><br>{{ palestra.data.origem }}<br>{{ palestra.data.date | postDate }}<br>{{ palestra.data.dia_semana }}<br>{{ palestra.data.date | postHour }}
+                <a href='/palestras/'><img src='{{ palestra.foto }}' title='{{ palestra.nome }}' width='100' height='120'></a><br><i>{{ palestra.nome }}</i><br>{{ palestra.origem }}<br>{{ palestra.date | postDate }}<br>{{ palestra.dia_semana }}<br>{{ palestra.date | postHour }}
               </div>
             {%- endfor %}                      
-            </div>
-            
+            </div>            
           </div>
         </div>
-        <!-- FIM PALESTRAS -->
-
-
-        <!-- REDES SOCIAIS -->
-        <div class="row">
-          <div class="card">
-            <div class="card-content center-align">
-              <span class="card-title">Redes Sociais</span>
-              <br>
-              <a href='{{ site.facebookUrl }}' target='_blank'><img src='{{ site.facebookImg }}' height='80'></a>  <a href='{{ site.instagramUrl }}' target='_blank'><img src='{{ site.instagramImg }}' height='80'></a>  <a href='{{ site.youtubeUrl }}' target='_blank'><img src='{{ site.youtubeImg }}' height='80'></a>
-            </div>
-          </div>
-        </div>
-        <!-- FIM REDES SOCIAIS -->
-
+        <div class="col s0 m1 l1">&nbsp;</div>        
       </div>
+      <!-- FIM PALESTRAS -->
     </div>
-    <!-- FIM COLUNA DA DIREITA -->
-
+    <!-- FIM COLUNA CENTRAL -->
+    <!-- REDES SOCIAIS -->
+    {% include "redes-sociais.njk" %}
+    <!-- FIM REDES SOCIAIS -->
   </div>
 </div>
