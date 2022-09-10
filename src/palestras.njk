@@ -57,9 +57,11 @@ pagination:
               <span style="font-size: 14px;">{{ item.origem }}</span>
               <br>
               <span style="font-size: 14px;"></span>
+              {%- if item.link -%}
               <span style="font-size: 14px;">
                 <a href='{{ item.link }}' target='_blank'><img src='/assets/images/icon_assistir.png' width='150px' /></a>
               </span>
+              {%- endif -%}
             </span>
           </div>
         </div>
@@ -81,8 +83,8 @@ pagination:
       -->
       <!-- FIM PROXIMAS PALESTRAS SABADO -->
       <!-- BARRA NAVEGACAO -->
-      <div class="row">
-        <div>
+      <!--div class="row"-->
+        <nav aria-labelledby="my-pagination">          
           <ul>
             <li>{%- if pagination.href.previous -%}<a href=" {{ pagination.href.previous }}"> << </a>{%- endif -%}</li>
             {%- for pageEntry in pagination.pages -%}
@@ -90,8 +92,8 @@ pagination:
             {%- endfor -%}
             <li>{%- if pagination.href.next -%}<a href=" {{ pagination.href.next }}"> >> </a>{%- endif -%}</li>
           </ul>
-        </div>
-      </div>
+        </nav>
+      <!--/div-->
       <!-- FIM BARRA NAVEGACAO -->
       {% include "redes-sociais.njk" %}    
     </div>    
