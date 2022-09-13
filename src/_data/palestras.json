@@ -60,6 +60,24 @@
       "tema": "Maria de Magdala, discípula do Cristo",
       "date": "2022-09-15T20:00:00-03:00",
       "dia_semana": "Quinta-feira",
+      "link": "https://youtu.be/vSQa-DEexic"
+    },
+    {
+      "nome": "Égida Maria Médici Bisi",
+      "origem": "GETC",
+      "foto": "/assets/images/palestrantes/Égida_Maria_Médici_Bisi-CEC.jpg",
+      "tema": "Florescendo com Jesus",
+      "date": "2022-09-22T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": ""
+    },
+    {
+      "nome": "Hugo Santos Mansur",
+      "origem": "CEC",
+      "foto": "/assets/images/palestrantes/Hugo_Santos_Mansur-CEC.jpg",
+      "tema": "Florescendo com Jesus",
+      "date": "2022-09-29T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
       "link": ""
     }
 ]
