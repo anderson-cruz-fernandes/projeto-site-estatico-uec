@@ -83,17 +83,18 @@ pagination:
       -->
       <!-- FIM PROXIMAS PALESTRAS SABADO -->
       <!-- BARRA NAVEGACAO -->
-      <!--div class="row"-->
-        <nav aria-labelledby="my-pagination">          
-          <ul>
-            <li>{%- if pagination.href.previous -%}<a href=" {{ pagination.href.previous }}"> << </a>{%- endif -%}</li>
-            {%- for pageEntry in pagination.pages -%}
-              <li><a href="{{ pagination.hrefs[loop.index0] }}">{{ loop.index }}</a></li>
+      <div class="row center">
+        <!--nav aria-labelledby="my-pagination"-->
+          <ul class="pagination">
+            <li>{%- if pagination.href.previous -%}<a href="{{ pagination.href.previous }}"><i class="material-icons">chevron_left</i></a>{%- endif -%}</li>
+            {%- for pageEntry in pagination.pages -%}  
+              <!-- Pagina= {{ pagination.pageNumber+1 }}, Loop= {{ loop.index }} -->
+              <li {%- if pagination.pageNumber+1 == loop.index -%}{%- set ativado = ' class=active' -%}{{ ativado }}{%- endif -%}><a href="{{ pagination.hrefs[loop.index0] }}">{{ loop.index }}</a></li>
             {%- endfor -%}
-            <li>{%- if pagination.href.next -%}<a href=" {{ pagination.href.next }}"> >> </a>{%- endif -%}</li>
+            <li>{%- if pagination.href.next -%}<a href="{{ pagination.href.next }}"><i class="material-icons">chevron_right</i></a>{%- endif -%}</li>
           </ul>
-        </nav>
-      <!--/div-->
+        <!--/nav-->
+      </div>
       <!-- FIM BARRA NAVEGACAO -->
       {% include "redes-sociais.njk" %}    
     </div>    
