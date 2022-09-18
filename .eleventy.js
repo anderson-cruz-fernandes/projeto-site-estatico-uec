@@ -1,9 +1,8 @@
 //const site = require('./src/_data/site.json');
 //const del = require('del');
-
+var paginaInicialPalestrantes = '';
 module.exports = function(eleventyConfig) {
-
-  //const { DateTime } = require("luxon");
+  
   const now = new Date();
   var moment = require('moment-timezone');
 
@@ -27,7 +26,8 @@ module.exports = function(eleventyConfig) {
     return collection.filter(function(item) {      
       return new Date(item.date) >= now;
     });
-  });  
+  });
+
   //https://daily-dev-tips.com/posts/creating-a-custom-eleventy-filter/
   eleventyConfig.addFilter("exibir", function(collection, limit) {
     return collection.slice(0, limit);
@@ -48,11 +48,30 @@ module.exports = function(eleventyConfig) {
     });
   });
   eleventyConfig.addFilter("existePalestra", function(collection) {
-    return collection.filter(function(item) {      
+    return collection.filter(function(item) {
       return item.length != 0;
     });
   });
 
+  eleventyConfig.addFilter("setPaginaInicialPalestrantes", function(collection, pageNumber) {    
+    return collection.filter(function(item) {
+        //console.log('item_date = ' + new Date(item.date).toISOString())
+        //console.log('now = ' + now.toISOString())
+        //console.log('resultado do If = ' + ((new Date(item.date) >= now) && (paginaInicialPalestrantes === '')))
+        //console.log('paginaInicialPalestrantes = ' + (paginaInicialPalestrantes === ''))
+        //console.log('paginaInicialPalestrantes = ' + paginaInicialPalestrantes)
+        //console.log('pageNumber = ' + (pageNumber))
+        
+        if ((new Date(item.date) >= now) && (paginaInicialPalestrantes === '')) {           
+          paginaInicialPalestrantes = (pageNumber).toString();
+          //console.log('ACHOU PÁGINA INICIAL!! -> ' + (pageNumber).toString())
+        }
+      return true;    
+    });
+  });
+
+  eleventyConfig.addShortcode("urlPalestras", () => '/palestras/'+paginaInicialPalestrantes);
+  
   return {
     dir: {
       input: "src",

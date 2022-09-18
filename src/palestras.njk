@@ -84,16 +84,13 @@ pagination:
       <!-- FIM PROXIMAS PALESTRAS SABADO -->
       <!-- BARRA NAVEGACAO -->
       <div class="row center">
-        <!--nav aria-labelledby="my-pagination"-->
           <ul class="pagination">
             <li>{%- if pagination.href.previous -%}<a href="{{ pagination.href.previous }}"><i class="material-icons">chevron_left</i></a>{%- endif -%}</li>
-            {%- for pageEntry in pagination.pages -%}  
-              <!-- Pagina= {{ pagination.pageNumber+1 }}, Loop= {{ loop.index }} -->
+            {%- for pageEntry in pagination.items | setPaginaInicialPalestrantes(pagination.pageNumber) -%}
               <li {%- if pagination.pageNumber+1 == loop.index -%}{%- set ativado = ' class=active' -%}{{ ativado }}{%- endif -%}><a href="{{ pagination.hrefs[loop.index0] }}">{{ loop.index }}</a></li>
             {%- endfor -%}
             <li>{%- if pagination.href.next -%}<a href="{{ pagination.href.next }}"><i class="material-icons">chevron_right</i></a>{%- endif -%}</li>
           </ul>
-        <!--/nav-->
       </div>
       <!-- FIM BARRA NAVEGACAO -->
       {% include "redes-sociais.njk" %}    
