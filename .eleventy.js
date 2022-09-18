@@ -71,11 +71,15 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addShortcode("urlPalestras", () => '/palestras/'+paginaInicialPalestrantes);
+
+  eleventyConfig.addPassthroughCopy('src/_redirects');
+  eleventyConfig.addPassthroughCopy('src/_headers');
   
   return {
     dir: {
       input: "src",
       output: "_site"
-    }
+    },
+    passthroughFileCopy: true,
   };
 }

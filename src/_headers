@@ -1,0 +1,15 @@
+http://cursos.uec.org.br
+  cache-control: max-age=0
+  cache-control: no-store
+  cache-control: no-cache
+  cache-control: must-revalidate
+  pragma: no-cache
+  expires: Thu, 1 Jan 1970 00:00:00 GMT
+
+https://cursos.uec.org.br
+  cache-control: max-age=0
+  cache-control: no-store
+  cache-control: no-cache
+  cache-control: must-revalidate
+  pragma: no-cache
+  expires: Thu, 1 Jan 1970 00:00:00 GMT
