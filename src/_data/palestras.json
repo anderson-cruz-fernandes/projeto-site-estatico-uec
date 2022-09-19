@@ -1,83 +1,85 @@
-[
-    {
-      "nome": "Zilda Mello",
-      "origem": "UEC",
-      "foto": "/assets/images/palestrantes/Zilda_Mello-UEC.jpg",
-      "tema": "O Paralítico de Cafarnaum e Nós",
-      "date": "2022-08-04T20:00:00-03:00",
-      "dia_semana": "Quinta-feira",
-      "link": "https://youtu.be/hhZTOzlfp3g"
-    },
-    {
-      "nome": "Ana Catarina Loureiro",
-      "origem": "AMEES",
-      "foto": "/assets/images/palestrantes/Ana_Catarina_Loureiro-AMEES.jpg",
-      "tema": "Renascer para Vida",
-      "date": "2022-08-11T20:00:00-03:00",
-      "dia_semana": "Quinta-feira",
-      "link": "https://youtu.be/ykzbgnzdOcE"
-    },
-    {
-      "nome": "Antônio Romero Sant Anna",
-      "origem": "GEEAK",
-      "foto": "/assets/images/palestrantes/Antônio_Romero_Sant_Anna-GEEAK.jpg",
-      "tema": "Justiça das aflições",
-      "date": "2022-08-18T20:00:00-03:00",
-      "dia_semana": "Quinta-feira",
-      "link": "https://youtu.be/qSCp59qgtOo"
-    },
-    {
-      "nome": "Dalva Silva Souza",
-      "origem": "FEEES",
-      "foto": "/assets/images/palestrantes/Dalva_Silva_Souza-FEEES.jpg",
-      "tema": "Mediunidade - castigo ou privilégio?",
-      "date": "2022-08-25T20:00:00-03:00",
-      "dia_semana": "Quinta-feira",
-      "link": "https://youtu.be/O9lX9ibZlX0"
-    },
-    {
-      "nome": "Wanderlei Aguiar",
-      "origem": "GFEJR",
-      "foto": "/assets/images/palestrantes/Wanderlei_Aguiar-GFEJR.jpg",
-      "tema": "Amor: a Essência dos Sentimentos",
-      "date": "2022-09-01T20:00:00-03:00",
-      "dia_semana": "Quinta-feira",
-      "link": "https://youtu.be/fhpyEUJQAas"
-    },
-    {
-      "nome": "Edina Mengali",
-      "origem": "GETC",
-      "foto": "/assets/images/palestrantes/Edina_Mengali-GETC.jpg",
-      "tema": "Quem é seu adversário?",
-      "date": "2022-09-08T20:00:00-03:00",
-      "dia_semana": "Quinta-feira",
-      "link": "https://youtu.be/VZHTIP1fhwk"
-    },
-    {
-      "nome": "Adriano Moreira",
-      "origem": "GETC",
-      "foto": "/assets/images/palestrantes/Adriano_Moreira-GETC.jpg",
-      "tema": "Maria de Magdala, discípula do Cristo",
-      "date": "2022-09-15T20:00:00-03:00",
-      "dia_semana": "Quinta-feira",
-      "link": "https://youtu.be/vSQa-DEexic"
-    },
-    {
-      "nome": "Égida Maria Médici Bisi",
-      "origem": "GETC",
-      "foto": "/assets/images/palestrantes/Égida_Maria_Médici_Bisi-CEC.jpg",
-      "tema": "Florescendo com Jesus",
-      "date": "2022-09-22T20:00:00-03:00",
-      "dia_semana": "Quinta-feira",
-      "link": ""
-    },
-    {
-      "nome": "Hugo Santos Mansur",
-      "origem": "CEC",
-      "foto": "/assets/images/palestrantes/Hugo_Santos_Mansur-CEC.jpg",
-      "tema": "Florescendo com Jesus",
-      "date": "2022-09-29T20:00:00-03:00",
-      "dia_semana": "Quinta-feira",
-      "link": ""
-    }
-]
+{
+  "palestras": [
+        {
+          "nome": "Zilda Mello",
+          "origem": "UEC",
+          "foto": "/assets/images/palestrantes/Zilda_Mello-UEC.jpg",
+          "tema": "O Paralítico de Cafarnaum e Nós",
+          "date": "2022-08-04T20:00:00-03:00",
+          "dia_semana": "Quinta-feira",
+          "link": "https://youtu.be/hhZTOzlfp3g"
+        },
+        {
+          "nome": "Ana Catarina Loureiro",
+          "origem": "AMEES",
+          "foto": "/assets/images/palestrantes/Ana_Catarina_Loureiro-AMEES.jpg",
+          "tema": "Renascer para Vida",
+          "date": "2022-08-11T20:00:00-03:00",
+          "dia_semana": "Quinta-feira",
+          "link": "https://youtu.be/ykzbgnzdOcE"
+        },
+        {
+          "nome": "Antônio Romero Sant Anna",
+          "origem": "GEEAK",
+          "foto": "/assets/images/palestrantes/Antônio_Romero_Sant_Anna-GEEAK.jpg",
+          "tema": "Justiça das aflições",
+          "date": "2022-08-18T20:00:00-03:00",
+          "dia_semana": "Quinta-feira",
+          "link": "https://youtu.be/qSCp59qgtOo"
+        },
+        {
+          "nome": "Dalva Silva Souza",
+          "origem": "FEEES",
+          "foto": "/assets/images/palestrantes/Dalva_Silva_Souza-FEEES.jpg",
+          "tema": "Mediunidade - castigo ou privilégio?",
+          "date": "2022-08-25T20:00:00-03:00",
+          "dia_semana": "Quinta-feira",
+          "link": "https://youtu.be/O9lX9ibZlX0"
+        },
+        {
+          "nome": "Wanderlei Aguiar",
+          "origem": "GFEJR",
+          "foto": "/assets/images/palestrantes/Wanderlei_Aguiar-GFEJR.jpg",
+          "tema": "Amor: a Essência dos Sentimentos",
+          "date": "2022-09-01T20:00:00-03:00",
+          "dia_semana": "Quinta-feira",
+          "link": "https://youtu.be/fhpyEUJQAas"
+        },
+        {
+          "nome": "Edina Mengali",
+          "origem": "GETC",
+          "foto": "/assets/images/palestrantes/Edina_Mengali-GETC.jpg",
+          "tema": "Quem é seu adversário?",
+          "date": "2022-09-08T20:00:00-03:00",
+          "dia_semana": "Quinta-feira",
+          "link": "https://youtu.be/VZHTIP1fhwk"
+        },
+        {
+          "nome": "Adriano Moreira",
+          "origem": "GETC",
+          "foto": "/assets/images/palestrantes/Adriano_Moreira-GETC.jpg",
+          "tema": "Maria de Magdala, discípula do Cristo",
+          "date": "2022-09-15T20:00:00-03:00",
+          "dia_semana": "Quinta-feira",
+          "link": "https://youtu.be/vSQa-DEexic"
+        },
+        {
+          "nome": "Égida Maria Médici Bisi",
+          "origem": "GETC",
+          "foto": "/assets/images/palestrantes/Égida_Maria_Médici_Bisi-CEC.jpg",
+          "tema": "Florescendo com Jesus",
+          "date": "2022-09-22T20:00:00-03:00",
+          "dia_semana": "Quinta-feira",
+          "link": ""
+        },
+        {
+          "nome": "Hugo Santos Mansur",
+          "origem": "CEC",
+          "foto": "/assets/images/palestrantes/Hugo_Santos_Mansur-CEC.jpg",
+          "tema": "Florescendo com Jesus",
+          "date": "2022-09-29T20:00:00-03:00",
+          "dia_semana": "Quinta-feira",
+          "link": ""
+        }
+     ]
+}

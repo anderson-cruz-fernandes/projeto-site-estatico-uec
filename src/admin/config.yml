@@ -1,0 +1,31 @@
+backend:
+  name: git-gateway
+  branch: main
+media_folder: "_site/assets/images"
+public_folder: "/assets/images"
+collections:
+  - label: "Palestras"
+    name: "palestras"
+    format: "json"
+    extension: "json"
+    create: true
+    files:
+      - label: "Palestras"
+        name: "palestras"
+        file: "src/_data/palestras.json"
+        fields:
+          - label: JSON das Palestras
+            name: palestras
+            widget: list
+            fields:
+              - { label: "Nome", name: "nome", widget: "string" }
+              - { label: "Origem", name: "origem", widget: "string" }
+              - { label: "Foto", name: "foto", widget: "image" }
+              - { label: "Tema", name: "tema", widget: "string" }
+              - { label: "Data", name: "date", widget: "datetime" }
+              - { label: "Dia da Semana", name: "dia_semana", widget: "string" }
+              - { label: "Link", name: "link", widget: "string" }
+
+#Dicas para corrigir o problema:
+# https://answers.netlify.com/t/netlify-cms-not-showing-json-file/46975/6
+# https://github.com/melanieanderson1995/my-website/blob/main/public/admin/config.yml
