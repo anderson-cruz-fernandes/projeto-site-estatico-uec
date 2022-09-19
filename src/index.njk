@@ -54,7 +54,7 @@ layout: 'base.njk'
             <div class="card-content center-align">
               <span class="card-title"><a href="/palestras/">Palestras da UEC</a></span>              
             </div>
-            {%- for palestra in palestras | aPartirDeHoje | exibir(3) -%}
+            {%- for palestra in palestras.palestras | aPartirDeHoje | exibir(3) -%}
             <div class="card">              
               <div class="card-content center-align">
                 <span style='font-weight:bold;'>{{ palestra.tema }}</span>
