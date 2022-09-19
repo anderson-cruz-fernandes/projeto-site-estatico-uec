@@ -26,3 +26,6 @@ collections:
               - { label: "Dia da Semana", name: "dia_semana", widget: "string" }
               - { label: "Link", name: "link", widget: "string" }
 
+#Dicas para corrigir o problema:
+# https://answers.netlify.com/t/netlify-cms-not-showing-json-file/46975/6
+# https://github.com/melanieanderson1995/my-website/blob/main/public/admin/config.yml
