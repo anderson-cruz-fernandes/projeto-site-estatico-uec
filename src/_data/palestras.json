@@ -79,6 +79,24 @@
           "tema": "Florescendo com Jesus",
           "date": "2022-09-29T20:00:00-03:00",
           "dia_semana": "Quinta-feira",
+          "link": "https://youtu.be/ry3PSQsr1e4"
+        },
+        {
+          "nome": "Nélio Borges",
+          "origem": "NEJER",
+          "foto": "/assets/images/palestrantes/Nelio_Rodrigues_Borges.jpg",
+          "tema": "'Calma' Livro de Emanuel por Chico Xavier - Parte 1",
+          "date": "2022-10-06T20:00:00-03:00",
+          "dia_semana": "Quinta-feira",
+          "link": "https://youtu.be/WOhV6j_EeXw"
+        },
+        {
+          "nome": "João Carlos Graça",
+          "origem": "CELD",
+          "foto": "/assets/images/palestrantes/Joao_Carlos_Graca.jpg",
+          "tema": "Fora da caridade consigo mesmo não há salvação",
+          "date": "2022-10-13T20:00:00-03:00",
+          "dia_semana": "Quinta-feira",
           "link": ""
         }
      ]
