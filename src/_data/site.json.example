@@ -1,0 +1,13 @@
+{
+  "title": "Título do Site", 
+  "name": "Nome da Instituição",
+  "logoUrl": "/assets/images/logo.png",
+  "faviconUrl": "/assets/images/favicon.ico",
+  "facebookUrl": "<url do facebook>", 
+  "facebookImage": "/assets/images/redes_sociais/icon_facebook.png",
+  "instagramUrl": "<url do instagram>",
+  "instagramImage": "/assets/images/redes_sociais/Instagram_AppIcon_Aug2017.png",
+  "youtubeUrl": "<url do youtube>",
+  "youtubeImage": "/assets/images/redes_sociais/icon_youtube.png",
+  "wsCursosUrl": "<url_do_webserver_dos_cursos>"
+}

@@ -97,7 +97,25 @@
           "tema": "Fora da caridade consigo mesmo não há salvação",
           "date": "2022-10-13T20:00:00-03:00",
           "dia_semana": "Quinta-feira",
-          "link": ""
+          "link": "https://youtu.be/Obrh_3-PEY8"
+        },
+        {
+          "nome": "Gabriel Valejo",
+          "origem": "ASSEB/GEPJCGR",
+          "foto": "/assets/images/palestrantes/Gabriel_Valejo.jpg",
+          "tema": "O Poder Da Fé",
+          "date": "2022-10-20T20:00:00-03:00",
+          "dia_semana": "Quinta-feira",
+          "link": "https://youtu.be/S7EnVksBHks"
+        },
+        {
+          "nome": "Afrísio Leon",
+          "origem": "GEBM",
+          "foto": "/assets/images/palestrantes/afrisio_leon.jpg",
+          "tema": "Nunca Desfalecer",
+          "date": "2022-10-27T20:00:00-03:00",
+          "dia_semana": "Quinta-feira",
+          "link": "https://youtu.be/5v6_27qvCIw"
         }
      ]
 }
