@@ -116,6 +116,15 @@
           "date": "2022-10-27T20:00:00-03:00",
           "dia_semana": "Quinta-feira",
           "link": "https://youtu.be/5v6_27qvCIw"
+        },
+        {
+          "nome": "Isabel Carvalho",
+          "origem": "UEC",
+          "foto": "/assets/images/palestrantes/isabel_carvalho.jpg",
+          "tema": "As Leis Moraes e os Viajantes do Universo",
+          "date": "2022-11-03T20:00:00-03:00",
+          "dia_semana": "Quinta-feira",
+          "link": "https://youtu.be/NoCDcNUsQNI"
         }
      ]
 }
