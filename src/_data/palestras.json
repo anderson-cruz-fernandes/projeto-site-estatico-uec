@@ -125,6 +125,33 @@
           "date": "2022-11-03T20:00:00-03:00",
           "dia_semana": "Quinta-feira",
           "link": "https://youtu.be/NoCDcNUsQNI"
+        },
+        {
+          "nome": "Gisélly de Abreu Corrêa",
+          "origem": "FEEES",
+          "foto": "/assets/images/palestrantes/gisely_abreu_correa.jpg",
+          "tema": "Como Abrir Portas para Acolher Diferenças?",
+          "date": "2022-11-10T20:00:00-03:00",
+          "dia_semana": "Quinta-feira",
+          "link": ""
+        },
+        {
+          "nome": "Sandro Brasileiro",
+          "origem": "CEAK",
+          "foto": "/assets/images/palestrantes/sandro_brasileiro.jpg",
+          "tema": "Família - que tal desatar nós e construir laços?",
+          "date": "2022-11-17T20:00:00-03:00",
+          "dia_semana": "Quinta-feira",
+          "link": ""
+        },
+        {
+          "nome": "Bruno Cabral",
+          "origem": "GEAK",
+          "foto": "/assets/images/palestrantes/bruno_cabral.jpg",
+          "tema": "Todas as Vidas Clamam por Amor",
+          "date": "2022-11-24T20:00:00-03:00",
+          "dia_semana": "Quinta-feira",
+          "link": ""
         }
      ]
 }
