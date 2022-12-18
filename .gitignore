@@ -2,5 +2,4 @@
 replit.nix
 .breakpoints
 node_modules/
-src/_data/site.json
 _site/
