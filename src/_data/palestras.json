@@ -1,202 +1,210 @@
 {
   "palestras": [
-        {
-          "nome": "Zilda Mello",
-          "origem": "UEC",
-          "foto": "/assets/images/palestrantes/Zilda_Mello-UEC.jpg",
-          "tema": "O Paralítico de Cafarnaum e Nós",
-          "date": "2022-08-04T20:00:00-03:00",
-          "dia_semana": "Quinta-feira",
-          "link": "https://youtu.be/hhZTOzlfp3g"
-        },
-        {
-          "nome": "Ana Catarina Loureiro",
-          "origem": "AMEES",
-          "foto": "/assets/images/palestrantes/Ana_Catarina_Loureiro-AMEES.jpg",
-          "tema": "Renascer para Vida",
-          "date": "2022-08-11T20:00:00-03:00",
-          "dia_semana": "Quinta-feira",
-          "link": "https://youtu.be/ykzbgnzdOcE"
-        },
-        {
-          "nome": "Antônio Romero Sant Anna",
-          "origem": "GEEAK",
-          "foto": "/assets/images/palestrantes/Antônio_Romero_Sant_Anna-GEEAK.jpg",
-          "tema": "Justiça das aflições",
-          "date": "2022-08-18T20:00:00-03:00",
-          "dia_semana": "Quinta-feira",
-          "link": "https://youtu.be/qSCp59qgtOo"
-        },
-        {
-          "nome": "Dalva Silva Souza",
-          "origem": "FEEES",
-          "foto": "/assets/images/palestrantes/Dalva_Silva_Souza-FEEES.jpg",
-          "tema": "Mediunidade - castigo ou privilégio?",
-          "date": "2022-08-25T20:00:00-03:00",
-          "dia_semana": "Quinta-feira",
-          "link": "https://youtu.be/O9lX9ibZlX0"
-        },
-        {
-          "nome": "Wanderlei Aguiar",
-          "origem": "GFEJR",
-          "foto": "/assets/images/palestrantes/Wanderlei_Aguiar-GFEJR.jpg",
-          "tema": "Amor: a Essência dos Sentimentos",
-          "date": "2022-09-01T20:00:00-03:00",
-          "dia_semana": "Quinta-feira",
-          "link": "https://youtu.be/fhpyEUJQAas"
-        },
-        {
-          "nome": "Edina Mengali",
-          "origem": "GETC",
-          "foto": "/assets/images/palestrantes/Edina_Mengali-GETC.jpg",
-          "tema": "Quem é seu adversário?",
-          "date": "2022-09-08T20:00:00-03:00",
-          "dia_semana": "Quinta-feira",
-          "link": "https://youtu.be/VZHTIP1fhwk"
-        },
-        {
-          "nome": "Adriano Moreira",
-          "origem": "GETC",
-          "foto": "/assets/images/palestrantes/Adriano_Moreira-GETC.jpg",
-          "tema": "Maria de Magdala, discípula do Cristo",
-          "date": "2022-09-15T20:00:00-03:00",
-          "dia_semana": "Quinta-feira",
-          "link": "https://youtu.be/vSQa-DEexic"
-        },
-        {
-          "nome": "Égida Maria Médici Bisi",
-          "origem": "GETC",
-          "foto": "/assets/images/palestrantes/Égida_Maria_Médici_Bisi-CEC.jpg",
-          "tema": "Florescendo com Jesus",
-          "date": "2022-09-22T20:00:00-03:00",
-          "dia_semana": "Quinta-feira",
-          "link": "https://youtu.be/W4TDZbSjS10"
-        },
-        {
-          "nome": "Hugo Santos Mansur",
-          "origem": "CEC",
-          "foto": "/assets/images/palestrantes/Hugo_Santos_Mansur-CEC.jpg",
-          "tema": "Florescendo com Jesus",
-          "date": "2022-09-29T20:00:00-03:00",
-          "dia_semana": "Quinta-feira",
-          "link": "https://youtu.be/ry3PSQsr1e4"
-        },
-        {
-          "nome": "Nélio Borges",
-          "origem": "NEJER",
-          "foto": "/assets/images/palestrantes/Nelio_Rodrigues_Borges.jpg",
-          "tema": "'Calma' Livro de Emanuel por Chico Xavier - Parte 1",
-          "date": "2022-10-06T20:00:00-03:00",
-          "dia_semana": "Quinta-feira",
-          "link": "https://youtu.be/WOhV6j_EeXw"
-        },
-        {
-          "nome": "João Carlos Graça",
-          "origem": "CELD",
-          "foto": "/assets/images/palestrantes/Joao_Carlos_Graca.jpg",
-          "tema": "Fora da caridade consigo mesmo não há salvação",
-          "date": "2022-10-13T20:00:00-03:00",
-          "dia_semana": "Quinta-feira",
-          "link": "https://youtu.be/Obrh_3-PEY8"
-        },
-        {
-          "nome": "Gabriel Valejo",
-          "origem": "ASSEB/GEPJCGR",
-          "foto": "/assets/images/palestrantes/Gabriel_Valejo.jpg",
-          "tema": "O Poder Da Fé",
-          "date": "2022-10-20T20:00:00-03:00",
-          "dia_semana": "Quinta-feira",
-          "link": "https://youtu.be/S7EnVksBHks"
-        },
-        {
-          "nome": "Afrísio Leon",
-          "origem": "GEBM",
-          "foto": "/assets/images/palestrantes/afrisio_leon.jpg",
-          "tema": "Nunca Desfalecer",
-          "date": "2022-10-27T20:00:00-03:00",
-          "dia_semana": "Quinta-feira",
-          "link": "https://youtu.be/5v6_27qvCIw"
-        },
-        {
-          "nome": "Gisélly de Abreu Corrêa",
-          "origem": "FEEES",
-          "foto": "/assets/images/palestrantes/gisely_abreu_correa.jpg",
-          "tema": "Como Abrir Portas para Acolher Diferenças?",
-          "date": "2022-11-03T20:00:00-03:00",
-          "dia_semana": "Quinta-feira",
-          "link": "https://youtu.be/NoCDcNUsQNI"
-        },
-        {
-          "nome": "Isabel Carvalho",
-          "origem": "UEC",
-          "foto": "/assets/images/palestrantes/isabel_carvalho.jpg",
-          "tema": "As Leis Morais e os Viajantes do Universo",
-          "date": "2022-11-10T20:00:00-03:00",
-          "dia_semana": "Quinta-feira",
-          "link": "https://youtu.be/Y1WTsNyHNzI"
-        },
-        {
-          "nome": "Sandro Brasileiro",
-          "origem": "CEAK",
-          "foto": "/assets/images/palestrantes/sandro_brasileiro.jpg",
-          "tema": "Família - que tal desatar nós e construir laços?",
-          "date": "2022-11-17T20:00:00-03:00",
-          "dia_semana": "Quinta-feira",
-          "link": "https://youtu.be/jehI8kybjF0"
-        },
-        {
-          "nome": "Hélio Tinoco",
-          "origem": "UEC",
-          "foto": "/assets/images/palestrantes/helio_tinoco.jpg",
-          "tema": "Reforma Íntima",
-          "date": "2022-11-24T20:00:00-03:00",
-          "dia_semana": "Quinta-feira",
-          "link": "https://youtu.be/JAJk9KEmIuk"
-        },
-        {
-          "nome": "Luiz Henrique Machado",
-          "origem": "UEC",
-          "foto": "/assets/images/palestrantes/luiz_henrique.jpg",
-          "tema": "\"O Dever\" do Evangélio Segundo o Espiritismo",
-          "date": "2022-12-01T20:00:00-03:00",
-          "dia_semana": "Quinta-feira",
-          "link": "https://youtu.be/UHZszN_f6hE"
-        },
-        {
-          "nome": "Thiago Farias",
-          "origem": "UECEL",
-          "foto": "/assets/images/palestrantes/thiago_farias.jpg",
-          "tema": "Reflexão sobre os Sofrimentos Individuais",
-          "date": "2022-12-08T20:00:00-03:00",
-          "dia_semana": "Quinta-feira",
-          "link": "https://youtu.be/5ud4cTINv0E"
-        },
-        {
-          "nome": "Maria de Fatima Souza",
-          "origem": "SEC",
-          "foto": "/assets/images/palestrantes/maria_de_fatima_souza.jpg",
-          "tema": "Reencontro com Jesus - Vinde a Luz",
-          "date": "2022-12-15T20:00:00-03:00",
-          "dia_semana": "Quinta-feira",
-          "link": "https://youtu.be/icOYCajLOYs"
-        },
-        {
-          "nome": "Hélio Tinoco",
-          "origem": "UEC",
-          "foto": "/assets/images/palestrantes/helio_tinoco.jpg",
-          "tema": "Ainda há tempo!",
-          "date": "2022-12-22T20:00:00-03:00",
-          "dia_semana": "Quinta-feira",
-          "link": "https://youtu.be/OWLdUosqOEA"
-        },
-        {
-          "nome": "Célia Kill",
-          "origem": "CELD",
-          "foto": "/assets/images/palestrantes/celia_regina_kill_ramos.jpg",
-          "tema": "O que Jesus espera de nós em 2023",
-          "date": "2022-12-29T20:00:00-03:00",
-          "dia_semana": "Quinta-feira",
-          "link": ""
-        }
-     ]
+    {
+      "nome": "Zilda Mello",
+      "origem": "UEC",
+      "foto": "/assets/images/palestrantes/Zilda_Mello-UEC.jpg",
+      "tema": "O Paralítico de Cafarnaum e Nós",
+      "date": "2022-08-04T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtu.be/hhZTOzlfp3g"
+    },
+    {
+      "nome": "Ana Catarina Loureiro",
+      "origem": "AMEES",
+      "foto": "/assets/images/palestrantes/Ana_Catarina_Loureiro-AMEES.jpg",
+      "tema": "Renascer para Vida",
+      "date": "2022-08-11T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtu.be/ykzbgnzdOcE"
+    },
+    {
+      "nome": "Antônio Romero Sant Anna",
+      "origem": "GEEAK",
+      "foto": "/assets/images/palestrantes/Antônio_Romero_Sant_Anna-GEEAK.jpg",
+      "tema": "Justiça das aflições",
+      "date": "2022-08-18T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtu.be/qSCp59qgtOo"
+    },
+    {
+      "nome": "Dalva Silva Souza",
+      "origem": "FEEES",
+      "foto": "/assets/images/palestrantes/Dalva_Silva_Souza-FEEES.jpg",
+      "tema": "Mediunidade - castigo ou privilégio?",
+      "date": "2022-08-25T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtu.be/O9lX9ibZlX0"
+    },
+    {
+      "nome": "Wanderlei Aguiar",
+      "origem": "GFEJR",
+      "foto": "/assets/images/palestrantes/Wanderlei_Aguiar-GFEJR.jpg",
+      "tema": "Amor: a Essência dos Sentimentos",
+      "date": "2022-09-01T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtu.be/fhpyEUJQAas"
+    },
+    {
+      "nome": "Edina Mengali",
+      "origem": "GETC",
+      "foto": "/assets/images/palestrantes/Edina_Mengali-GETC.jpg",
+      "tema": "Quem é seu adversário?",
+      "date": "2022-09-08T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtu.be/VZHTIP1fhwk"
+    },
+    {
+      "nome": "Adriano Moreira",
+      "origem": "GETC",
+      "foto": "/assets/images/palestrantes/Adriano_Moreira-GETC.jpg",
+      "tema": "Maria de Magdala, discípula do Cristo",
+      "date": "2022-09-15T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtu.be/vSQa-DEexic"
+    },
+    {
+      "nome": "Égida Maria Médici Bisi",
+      "origem": "GETC",
+      "foto": "/assets/images/palestrantes/Égida_Maria_Médici_Bisi-CEC.jpg",
+      "tema": "Florescendo com Jesus",
+      "date": "2022-09-22T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtu.be/W4TDZbSjS10"
+    },
+    {
+      "nome": "Hugo Santos Mansur",
+      "origem": "CEC",
+      "foto": "/assets/images/palestrantes/Hugo_Santos_Mansur-CEC.jpg",
+      "tema": "Florescendo com Jesus",
+      "date": "2022-09-29T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtu.be/ry3PSQsr1e4"
+    },
+    {
+      "nome": "Nélio Borges",
+      "origem": "NEJER",
+      "foto": "/assets/images/palestrantes/Nelio_Rodrigues_Borges.jpg",
+      "tema": "'Calma' Livro de Emanuel por Chico Xavier - Parte 1",
+      "date": "2022-10-06T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtu.be/WOhV6j_EeXw"
+    },
+    {
+      "nome": "João Carlos Graça",
+      "origem": "CELD",
+      "foto": "/assets/images/palestrantes/Joao_Carlos_Graca.jpg",
+      "tema": "Fora da caridade consigo mesmo não há salvação",
+      "date": "2022-10-13T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtu.be/Obrh_3-PEY8"
+    },
+    {
+      "nome": "Gabriel Valejo",
+      "origem": "ASSEB/GEPJCGR",
+      "foto": "/assets/images/palestrantes/Gabriel_Valejo.jpg",
+      "tema": "O Poder Da Fé",
+      "date": "2022-10-20T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtu.be/S7EnVksBHks"
+    },
+    {
+      "nome": "Afrísio Leon",
+      "origem": "GEBM",
+      "foto": "/assets/images/palestrantes/afrisio_leon.jpg",
+      "tema": "Nunca Desfalecer",
+      "date": "2022-10-27T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtu.be/5v6_27qvCIw"
+    },
+    {
+      "nome": "Gisélly de Abreu Corrêa",
+      "origem": "FEEES",
+      "foto": "/assets/images/palestrantes/gisely_abreu_correa.jpg",
+      "tema": "Como Abrir Portas para Acolher Diferenças?",
+      "date": "2022-11-03T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtu.be/NoCDcNUsQNI"
+    },
+    {
+      "nome": "Isabel Carvalho",
+      "origem": "UEC",
+      "foto": "/assets/images/palestrantes/isabel_carvalho.jpg",
+      "tema": "As Leis Morais e os Viajantes do Universo",
+      "date": "2022-11-10T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtu.be/Y1WTsNyHNzI"
+    },
+    {
+      "nome": "Sandro Brasileiro",
+      "origem": "CEAK",
+      "foto": "/assets/images/palestrantes/sandro_brasileiro.jpg",
+      "tema": "Família - que tal desatar nós e construir laços?",
+      "date": "2022-11-17T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtu.be/jehI8kybjF0"
+    },
+    {
+      "nome": "Hélio Tinoco",
+      "origem": "UEC",
+      "foto": "/assets/images/palestrantes/helio_tinoco.jpg",
+      "tema": "Reforma Íntima",
+      "date": "2022-11-24T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtu.be/JAJk9KEmIuk"
+    },
+    {
+      "nome": "Luiz Henrique Machado",
+      "origem": "UEC",
+      "foto": "/assets/images/palestrantes/luiz_henrique.jpg",
+      "tema": "\"O Dever\" do Evangélio Segundo o Espiritismo",
+      "date": "2022-12-01T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtu.be/UHZszN_f6hE"
+    },
+    {
+      "nome": "Thiago Farias",
+      "origem": "UECEL",
+      "foto": "/assets/images/palestrantes/thiago_farias.jpg",
+      "tema": "Reflexão sobre os Sofrimentos Individuais",
+      "date": "2022-12-08T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtu.be/5ud4cTINv0E"
+    },
+    {
+      "nome": "Maria de Fatima Souza",
+      "origem": "SEC",
+      "foto": "/assets/images/palestrantes/maria_de_fatima_souza.jpg",
+      "tema": "Reencontro com Jesus - Vinde a Luz",
+      "date": "2022-12-15T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtu.be/icOYCajLOYs"
+    },
+    {
+      "nome": "Hélio Tinoco",
+      "origem": "UEC",
+      "foto": "/assets/images/palestrantes/helio_tinoco.jpg",
+      "tema": "Ainda há tempo!",
+      "date": "2022-12-22T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtu.be/OWLdUosqOEA"
+    },
+    {
+      "nome": "Célia Kill",
+      "origem": "CELD",
+      "foto": "/assets/images/palestrantes/celia_regina_kill_ramos.jpg",
+      "tema": "O que Jesus espera de nós em 2023",
+      "date": "2022-12-29T20:00:00-03:00",
+      "dia_semana": "Quinta-feira",
+      "link": ""
+    },
+    {
+      "date": "2022-10-13T20:08:22.030Z",
+      "nome": "Alan",
+      "origem": "UEC",
+      "foto": "/assets/images/palestrantes/10000000000000000000000Imagem1.jpg",
+      "dia_semana": "Quinta-feira",
+      "tema": "Alan Kardec"
+    }
+  ]
 }
