@@ -145,11 +145,56 @@
           "link": "https://youtu.be/jehI8kybjF0"
         },
         {
-          "nome": "Bruno Cabral",
-          "origem": "GEAK",
-          "foto": "/assets/images/palestrantes/bruno_cabral.jpg",
-          "tema": "Todas as Vidas Clamam por Amor",
+          "nome": "Hélio Tinoco",
+          "origem": "UEC",
+          "foto": "/assets/images/palestrantes/helio_tinoco.jpg",
+          "tema": "Reforma Íntima",
           "date": "2022-11-24T20:00:00-03:00",
+          "dia_semana": "Quinta-feira",
+          "link": "https://youtu.be/JAJk9KEmIuk"
+        },
+        {
+          "nome": "Luiz Henrique Machado",
+          "origem": "UEC",
+          "foto": "/assets/images/palestrantes/luiz_henrique.jpg",
+          "tema": "\"O Dever\" do Evangélio Segundo o Espiritismo",
+          "date": "2022-12-01T20:00:00-03:00",
+          "dia_semana": "Quinta-feira",
+          "link": "https://youtu.be/UHZszN_f6hE"
+        },
+        {
+          "nome": "Thiago Farias",
+          "origem": "UECEL",
+          "foto": "/assets/images/palestrantes/thiago_farias.jpg",
+          "tema": "Reflexão sobre os Sofrimentos Individuais",
+          "date": "2022-12-08T20:00:00-03:00",
+          "dia_semana": "Quinta-feira",
+          "link": "https://youtu.be/5ud4cTINv0E"
+        },
+        {
+          "nome": "Maria de Fatima Souza",
+          "origem": "SEC",
+          "foto": "/assets/images/palestrantes/maria_de_fatima_souza.jpg",
+          "tema": "Reencontro com Jesus - Vinde a Luz",
+          "date": "2022-12-08T20:00:00-03:00",
+          "dia_semana": "Quinta-feira",
+          "link": "https://youtu.be/5ud4cTINv0E"
+        },
+        {
+          "nome": "Hélio Tinoco",
+          "origem": "UEC",
+          "foto": "/assets/images/palestrantes/helio_tinoco.jpg",
+          "tema": "Ainda há tempo!",
+          "date": "2022-12-22T20:00:00-03:00",
+          "dia_semana": "Quinta-feira",
+          "link": "https://youtu.be/OWLdUosqOEA"
+        },
+        {
+          "nome": "Célia Kill",
+          "origem": "CELD",
+          "foto": "/assets/images/palestrantes/celia_regina_kill_ramos.jpg",
+          "tema": "Ainda há tempo!",
+          "date": "2022-12-29T20:00:00-03:00",
           "dia_semana": "Quinta-feira",
           "link": ""
         }
