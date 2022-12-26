@@ -76,7 +76,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/_headers');
   eleventyConfig.addPassthroughCopy('src/admin');
   eleventyConfig.addPassthroughCopy('src/feed');
-  eleventyConfig.addPassthroughCopy('src/external_redirect/*.html');
   
   return {
     dir: {
