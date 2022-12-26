@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <link>https://uec.org.br/</link>
+    <title>União Espírita Cristã</title>
+    <description>Palestras Realizadas na União Espírita Cristã - Vila Velha - Espírito Santo</description>
+    <webMaster>info@archive.org (Info Box)</webMaster>
+    <pubDate>Sun, 25 Dec 2022 15:00:11 GMT</pubDate>
+	<itunes:author>uec.org.br</itunes:author>
+	<itunes:owner>
+	<itunes:email>decom@uec.org.br</itunes:email>
+	</itunes:owner>
+	<language>pt-br</language>
+	<itunes:type>episodic</itunes:type>
+	<itunes:explicit>clean</itunes:explicit>
+	<atom:link href="https://uec.org.br/feed" rel="self" type="application/rss+xml"/>
+	<itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+    <image>
+      <url>https://uec.org.br/images/logo-grande-uec.jpg</url>
+      <link>https://uec.org.br/</link>
+    </image>
+    <item>
+      <title>Reflexões sobre nós e o perdão - Anderson do Nascimento Vargas</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 20/05/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-reflexoes-sobre-nos-e-o-perdao-com-anderson-do-nascimento-vargas&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-reflexoes-sobre-nos-e-o-perdao-com-anderson-do-nascimento-vargas</guid>
+      <pubDate>Sun, 20 Jun 2021 07:04:32 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-reflexoes-sobre-nos-e-o-perdao-com-anderson-do-nascimento-vargas/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>A Lei do Progresso - Cassio Drumond</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 18/05/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-a-lei-do-progresso-com-cassio-drumond&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-a-lei-do-progresso-com-cassio-drumond</guid>
+      <pubDate>Sun, 20 Jun 2021 06:58:04 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-a-lei-do-progresso-com-cassio-drumond/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Superioridade da Natureza de Jesus - Bruno Gonzaga</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 15/05/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-superioridade-da-natureza-de-jesus-com-bruno-gonzaga&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-superioridade-da-natureza-de-jesus-com-bruno-gonzaga</guid>
+      <pubDate>Sun, 20 Jun 2021 06:42:59 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-superioridade-da-natureza-de-jesus-com-bruno-gonzaga/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Terapia do Perdão - Alexandre Moraes</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 13/05/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-terapia-do-perdao-com-alexandre-moraes&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-terapia-do-perdao-com-alexandre-moraes</guid>
+      <pubDate>Sun, 20 Jun 2021 06:22:40 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-terapia-do-perdao-com-alexandre-moraes/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Gratidão a Maria - Elizabeth Tolomelli</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 11/05/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-gratidao-a-maria-com-elizabeth-tolomelli&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-gratidao-a-maria-com-elizabeth-tolomelli</guid>
+      <pubDate>Sun, 20 Jun 2021 05:56:07 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-gratidao-a-maria-com-elizabeth-tolomelli/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Ser Mãe - Hélio Tinoco</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 08/05/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-ser-mae-com-helio-tinoco&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-ser-mae-com-helio-tinoco</guid>
+      <pubDate>Sun, 13 Jun 2021 06:41:28 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-ser-mae-com-helio-tinoco/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Gestação: Sublime Intercâmbio - Eudayr Alves Moreira</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 06/05/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-gestacao-sublime-intercambio-com-eudayr-alves-moreira&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-gestacao-sublime-intercambio-com-eudayr-alves-moreira</guid>
+      <pubDate>Sun, 13 Jun 2021 05:25:37 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-gestacao-sublime-intercambio-com-eudayr-alves-moreira/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Amor materno - Efeito Alimentador - Dalva Silva</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 04/05/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-amor-materno-efeito-alimentador-com-dalva-silva-souza&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-amor-materno-efeito-alimentador-com-dalva-silva-souza</guid>
+      <pubDate>Sun, 13 Jun 2021 05:07:52 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-amor-materno-efeito-alimentador-com-dalva-silva-souza/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>O Livro dos imortais - Rodrigo Brasileiro</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 18/05/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-o-livro-dos-imortais-com-rodrigo-brasileiro&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-o-livro-dos-imortais-com-rodrigo-brasileiro</guid>
+      <pubDate>Sun, 13 Jun 2021 04:15:42 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-o-livro-dos-imortais-com-rodrigo-brasileiro/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Kardec e o seu legado - Louise Vidigal</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 27/04/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-kardec-e-o-seu-legado-com-louise-vidigal&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-kardec-e-o-seu-legado-com-louise-vidigal</guid>
+      <pubDate>Sun, 13 Jun 2021 03:15:49 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-kardec-e-o-seu-legado-com-louise-vidigal/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Lindos casos de Chico Xavier - Cristina Batistuta</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 29/04/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-lindos-casos-de-chico-xavier-com-cristina-batistuta&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-lindos-casos-de-chico-xavier-com-cristina-batistuta</guid>
+      <pubDate>Sun, 13 Jun 2021 01:59:18 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-lindos-casos-de-chico-xavier-com-cristina-batistuta/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Nascer da água e do Espírito - Ricardo Alves</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 22/04/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-nascer-da-agua-e-do-espirito-com-ricardo-alves&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-nascer-da-agua-e-do-espirito-com-ricardo-alves</guid>
+      <pubDate>Mon, 17 May 2021 00:32:53 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-nascer-da-agua-e-do-espirito-com-ricardo-alves/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Jesus e as três proibições - Cristina Soneghet</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 16/05/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-jesus-e-as-3-proibicoes-com-cristina-soneghet&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-jesus-e-as-3-proibicoes-com-cristina-soneghet</guid>
+      <pubDate>Mon, 17 May 2021 00:29:37 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-jesus-e-as-3-proibicoes-com-cristina-soneghet/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>O sentido da vida - Eliomar Borgo Cypriano</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 17/04/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-o-sentido-da-vida-com-eliomar-gorgo-cypriano&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-o-sentido-da-vida-com-eliomar-gorgo-cypriano</guid>
+      <pubDate>Sun, 16 May 2021 23:40:39 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-o-sentido-da-vida-com-eliomar-gorgo-cypriano/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Perseverança - Zunara Cremasco</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia  15/04/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-perseveranca-com-zunara-cremasco&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-perseveranca-com-zunara-cremasco</guid>
+      <pubDate>Sat, 15 May 2021 19:48:33 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-perseveranca-com-zunara-cremasco/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Chico Xavier - fidelidade ao evangelho - Adriana Sarmento</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 24/04/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-chico-xavier-fidelidade-ao-evangelho-com-adriana-sarmento&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-chico-xavier-fidelidade-ao-evangelho-com-adriana-sarmento</guid>
+      <pubDate>Sat, 15 May 2021 19:12:23 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-chico-xavier-fidelidade-ao-evangelho-com-adriana-sarmento/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Na obra da Luz - Elizabeth Tolomelli</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 13/04/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-na-obra-da-luz-com-elizabeth-tolomelli&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-na-obra-da-luz-com-elizabeth-tolomelli</guid>
+      <pubDate>Sat, 15 May 2021 18:34:03 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-na-obra-da-luz-com-elizabeth-tolomelli/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Chico Amor Xavier - Alexandre Moraes</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 08/04/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-chico-amor-xavier-com-alexandre-moraes&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-chico-amor-xavier-com-alexandre-moraes</guid>
+      <pubDate>Mon, 26 Apr 2021 02:03:16 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-chico-amor-xavier-com-alexandre-moraes/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Muito prazer: Emmanuel - Alirio Cézar</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 10/04/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-muito-prazer-emmanuel-com-alirio-cezar&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-muito-prazer-emmanuel-com-alirio-cezar</guid>
+      <pubDate>Mon, 26 Apr 2021 01:42:38 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-muito-prazer-emmanuel-com-alirio-cezar/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>O temor da morte - Leila Silva Brandão</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 06/04/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-o-temor-da-morte-com-leila-silva-brandao&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-o-temor-da-morte-com-leila-silva-brandao</guid>
+      <pubDate>Mon, 26 Apr 2021 01:04:35 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-o-temor-da-morte-com-leila-silva-brandao/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>O que é o Espiritismo - Hélio Tinoco</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 03/04/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-o-que-e-o-espiritismo-com-helio-tinoco&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-o-que-e-o-espiritismo-com-helio-tinoco</guid>
+      <pubDate>Sun, 25 Apr 2021 23:39:38 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-o-que-e-o-espiritismo-com-helio-tinoco/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Dormindo e Aprendendo - Fábio Pires</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 30/03/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-dormindo-e-aprendendo-com-fabio-pires&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-dormindo-e-aprendendo-com-fabio-pires</guid>
+      <pubDate>Sun, 25 Apr 2021 23:18:22 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-dormindo-e-aprendendo-com-fabio-pires/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Zaqueu, o rico em humildade - Cylene Dalva Silva Guida</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 27/03/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-zaquel-o-rico-em-humildade-com-cylene-dalva-silva-guida&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-zaquel-o-rico-em-humildade-com-cylene-dalva-silva-guida</guid>
+      <pubDate>Mon, 29 Mar 2021 20:01:56 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-zaquel-o-rico-em-humildade-com-cylene-dalva-silva-guida/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Ajudemos a Vida Mental - Bruno Ramos Gonzaga</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 25/03/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-ajudemos-a-vida-mental-com-bruno-ramos-gonzaga&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-ajudemos-a-vida-mental-com-bruno-ramos-gonzaga</guid>
+      <pubDate>Mon, 29 Mar 2021 19:56:04 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-ajudemos-a-vida-mental-com-bruno-ramos-gonzaga/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Bem-Aventurados os Aflitos - Alexandre Moraes</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 23/03/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-bem-aventurados-os-aflitos-com-alexandre-moraes&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-bem-aventurados-os-aflitos-com-alexandre-moraes</guid>
+      <pubDate>Sun, 28 Mar 2021 10:04:12 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-bem-aventurados-os-aflitos-com-alexandre-moraes/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Mentor e Aprendiz - Anderson do Nascimento Vargas</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 18/03/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-mentor-e-aprendiz-com-anderson-do-nascimento-vargas&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-mentor-e-aprendiz-com-anderson-do-nascimento-vargas</guid>
+      <pubDate>Sun, 28 Mar 2021 09:22:02 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-mentor-e-aprendiz-com-anderson-do-nascimento-vargas/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Por que o perdão é importante? - Cellio Silva</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 20/03/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-por-que-o-perdao-e-importante-com-cellio-silva&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-por-que-o-perdao-e-importante-com-cellio-silva</guid>
+      <pubDate>Sun, 28 Mar 2021 09:19:23 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-por-que-o-perdao-e-importante-com-cellio-silva/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>O Livro dos Espíritos - Paulo Cesar Castellani</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 16/03/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-o-livro-dos-espiritos-com-paulo-cesar-castellani&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-o-livro-dos-espiritos-com-paulo-cesar-castellani</guid>
+      <pubDate>Wed, 17 Mar 2021 17:02:57 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-o-livro-dos-espiritos-com-paulo-cesar-castellani/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Apocalipse, Momentos Finais - Dalva Silva Souza</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 14/03/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-apocalipse-momentos-finais-com-dalva-silva-souza&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-apocalipse-momentos-finais-com-dalva-silva-souza</guid>
+      <pubDate>Sun, 14 Mar 2021 16:46:07 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-apocalipse-momentos-finais-com-dalva-silva-souza/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Pedi e obtereis - Luiz Arthur Barros</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 09/03/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-pedi-e-obtereis-com-luiz-arthur-barros&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-pedi-e-obtereis-com-luiz-arthur-barros</guid>
+      <pubDate>Sun, 14 Mar 2021 12:46:35 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-pedi-e-obtereis-com-luiz-arthur-barros/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Muralha do Tempo - Célia Regina Kill Ramos</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 11/03/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-muralha-do-tempo-com-celia-regina-kill-ramos&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-muralha-do-tempo-com-celia-regina-kill-ramos</guid>
+      <pubDate>Thu, 11 Mar 2021 15:01:48 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-muralha-do-tempo-com-celia-regina-kill-ramos/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>A Fé e o Amor - Isabel Carvalho</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 06/03/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-a-fe-e-o-amor-com-isabel-carvalho&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-a-fe-e-o-amor-com-isabel-carvalho</guid>
+      <pubDate>Sat, 06 Mar 2021 20:21:31 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-a-fe-e-o-amor-com-isabel-carvalho/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Deixai vir a mim as criancinhas - Louise Vidigal</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 04/03/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-deixai-vir-a-mim-as-criancinhas-com-louise-vidigal&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-deixai-vir-a-mim-as-criancinhas-com-louise-vidigal</guid>
+      <pubDate>Thu, 04 Mar 2021 15:32:29 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-deixai-vir-a-mim-as-criancinhas-com-louise-vidigal/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>As mulheres da vida de Jesus - Helio Tinoco</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 02/03/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-as-mulheres-da-vida-de-jesus-com-helio-tinoco&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-as-mulheres-da-vida-de-jesus-com-helio-tinoco</guid>
+      <pubDate>Tue, 02 Mar 2021 15:29:54 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-as-mulheres-da-vida-de-jesus-com-helio-tinoco/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>A bondade reparadora - Adriana Sarmento</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 27/02/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-a-bondade-reparadora-com-adriana-sarmento&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-a-bondade-reparadora-com-adriana-sarmento</guid>
+      <pubDate>Sun, 28 Feb 2021 02:53:18 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-a-bondade-reparadora-com-adriana-sarmento/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Deixando a Terra, para onde vamos? - Paulo Castellani</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 25/02/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-deixando-a-terra-para-onde-vamos-com-paulo-cesar-castellani&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-deixando-a-terra-para-onde-vamos-com-paulo-cesar-castellani</guid>
+      <pubDate>Fri, 26 Feb 2021 01:14:16 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-deixando-a-terra-para-onde-vamos-com-paulo-cesar-castellani/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Parábola dos primeiros lugares - Elzimar Ricardino Almeida Silva</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 23/02/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-parabola-dos-primeiros-lugares-com-elzimar-ricardino-almeida-silva&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-parabola-dos-primeiros-lugares-com-elzimar-ricardino-almeida-silva</guid>
+      <pubDate>Tue, 23 Feb 2021 18:27:13 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-parabola-dos-primeiros-lugares-com-elzimar-ricardino-almeida-silva/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Não se pode servir a Deus e a Mamon - André Seabra</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 20/02/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-nao-se-pode-servir-a-deus-e-a-mamon-com-andre-seabra&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-nao-se-pode-servir-a-deus-e-a-mamon-com-andre-seabra</guid>
+      <pubDate>Sun, 21 Feb 2021 06:58:31 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-nao-se-pode-servir-a-deus-e-a-mamon-com-andre-seabra/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Aflições - Gabriel Valejo</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 18/02/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-aflicoes-com-gabriel-valejo&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-aflicoes-com-gabriel-valejo</guid>
+      <pubDate>Fri, 19 Feb 2021 05:32:46 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-aflicoes-com-gabriel-valejo/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Apocalipse, Tempo de Ceifa - Dalva Silva Souza</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 16/02/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-apocalipse-tempo-de-ceifa-com-dalva-silva-souza&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-apocalipse-tempo-de-ceifa-com-dalva-silva-souza</guid>
+      <pubDate>Wed, 17 Feb 2021 02:29:58 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-apocalipse-tempo-de-ceifa-com-dalva-silva-souza/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Pai Nosso - Amanda Lopes</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 13/02/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-pai-nosso-com-amanda-lopes&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-pai-nosso-com-amanda-lopes</guid>
+      <pubDate>Sat, 13 Feb 2021 23:50:44 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-pai-nosso-com-amanda-lopes/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Educação como meio de transformação social - Luiz Guilherme Castellani</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 11/02/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-educacao-como-meio-de-transformacao-social-com-luiz-guilherme-castellani&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-educacao-como-meio-de-transformacao-social-com-luiz-guilherme-castellani</guid>
+      <pubDate>Thu, 11 Feb 2021 20:24:10 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-educacao-como-meio-de-transformacao-social-com-luiz-guilherme-castellani/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Conhece-te a ti mesmo - Luiz Arthur Barros</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 09/02/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-conhece-te-a-ti-mesmo-com-luiz-arthur-barros&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-conhece-te-a-ti-mesmo-com-luiz-arthur-barros</guid>
+      <pubDate>Tue, 09 Feb 2021 17:55:12 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-conhece-te-a-ti-mesmo-com-luiz-arthur-barros/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Influenciação Espiritual Sutil -Palestra Anderson Do Nascimento Vargas</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 06/02/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-influenciacao-espiritual-sutil-com-anderson-do-nascimento-vargas&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-influenciacao-espiritual-sutil-com-anderson-do-nascimento-vargas</guid>
+      <pubDate>Sun, 07 Feb 2021 00:03:25 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-influenciacao-espiritual-sutil-com-anderson-do-nascimento-vargas/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Andai Enquanto Tendes Luz com Hélio Tinoco</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 04/02/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-andai-enquanto-tendes-luz-com-helio-tinoco&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-andai-enquanto-tendes-luz-com-helio-tinoco</guid>
+      <pubDate>Thu, 04 Feb 2021 15:55:18 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-andai-enquanto-tendes-luz-com-helio-tinoco/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>A Rede - Elizabeth Tolomelli</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 02/02/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-a-rede-com-elizabeth-tolomelli&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-a-rede-com-elizabeth-tolomelli</guid>
+      <pubDate>Tue, 02 Feb 2021 15:10:44 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-a-rede-com-elizabeth-tolomelli/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>A Última Ceia - Elzimar Ricardino Almeida Silva</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 30/01/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-a-ultima-ceia-com-elzimar-ricardino-almeida-silva&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-a-ultima-ceia-com-elzimar-ricardino-almeida-silva</guid>
+      <pubDate>Sun, 31 Jan 2021 04:26:20 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-a-ultima-ceia-com-elzimar-ricardino-almeida-silva/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>E a Tua Fé Te Curou - Amanda Lopes</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 26/01/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-e-a-tua-fe-te-curou-com-amanda-lopes&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-e-a-tua-fe-te-curou-com-amanda-lopes</guid>
+      <pubDate>Sun, 31 Jan 2021 04:03:07 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-e-a-tua-fe-te-curou-com-amanda-lopes/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>O Reino de Deus está Dentro de Vós - Hélio Tinoco</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 23/01/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-o-reino-de-deus-esta-dentro-de-vos-com-helio-tinoco&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-o-reino-de-deus-esta-dentro-de-vos-com-helio-tinoco</guid>
+      <pubDate>Sun, 31 Jan 2021 04:00:07 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-o-reino-de-deus-esta-dentro-de-vos-com-helio-tinoco/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+    <item>
+      <title>Bem-Aventurados os Mansos - André Seabra</title>
+      <description>Palestra promovida pela União Espírita Cristã (UEC) no dia 21/01/2021.</description>
+	<itunes:image href="https://archive.org/services/get-item-image.php?identifier=uec-bem-aventurados-os-mansos-com-andre-seabra&amp;mediatype=audio&amp;collection=opensource_audio" />
+      <link>https://uec.org.br/</link>
+      <guid>https://archive.org/details/uec-bem-aventurados-os-mansos-com-andre-seabra</guid>
+      <pubDate>Sun, 31 Jan 2021 03:46:00 GMT</pubDate>
+      <itunes:category text="Religion &#38; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+      <enclosure url="https://archive.org/download/uec-bem-aventurados-os-mansos-com-andre-seabra/format=VBR+MP3&amp;ignore=x.mp3" type="audio/mpeg" length="111111"/>
+    </item>
+  </channel>
+</rss>
