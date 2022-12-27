@@ -205,6 +205,30 @@
       "foto": "/assets/images/palestrantes/Zilda_Mello-UEC.jpg",
       "tema": "A Autoridade de Jesus",
       "dia_semana": "Quinta-feira"
+    },
+    {
+      "date": "2023-01-12T23:00:24.475Z",
+      "nome": "Clever Coimbra Oliveira",
+      "tema": "Amar e Servir",
+      "dia_semana": "Quinta-feira",
+      "foto": "/assets/images/palestrantes/clever-coimbra-oliveira.jpg",
+      "origem": "FESLAR"
+    },
+    {
+      "date": "2023-01-19T23:00:17.995Z",
+      "nome": "Tereza Maria Fafá Silly",
+      "origem": "CEAK",
+      "foto": "/assets/images/palestrantes/tereza-maria-fafa-silly.png",
+      "tema": "Cólera",
+      "dia_semana": "Quinta-feira"
+    },
+    {
+      "date": "2023-01-26T23:00:50.782Z",
+      "nome": "Walmir Garcia",
+      "origem": " ",
+      "foto": "/assets/images/palestrantes/walmir-garcia.jpg",
+      "tema": "Vamos evoluir?",
+      "dia_semana": "Quinta-feira"
     }
   ]
 }
