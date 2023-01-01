@@ -59,7 +59,7 @@ layout: 'base.njk'
               <div class="card-content center-align">
                 <span style='font-weight:bold;'>{{ palestra.tema }}</span>
                 <br>
-                <a href='{%- urlPalestras -%}'><img class='responsive-img' src='{{ palestra.foto }}' title='{{ palestra.nome }}' width='145px'></a><br><i>{{ palestra.nome }}</i><br>{{ palestra.origem }}<br>{{ palestra.date | postDate }}<br>{{ palestra.dia_semana }}<br>{{ palestra.date | postHour }}
+                <a href="javascript:document.getElementById('link_palestras').click()"><img class='responsive-img' src='{{ palestra.foto }}' title='{{ palestra.nome }}' width='145px'></a><br><i>{{ palestra.nome }}</i><br>{{ palestra.origem }}<br>{{ palestra.date | postDate }}<br>{{ palestra.dia_semana }}<br>{{ palestra.date | postHour }}
               </div>
             </div>
             {%- endfor %}                        
