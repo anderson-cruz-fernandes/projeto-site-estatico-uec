@@ -249,7 +249,24 @@
       "origem": "UEC",
       "tema": "O Homem no Mundo",
       "dia_semana": "Quinta-feira",
-      "foto": "/assets/images/palestrantes/rozangela_uec.jpg"
+      "foto": "/assets/images/palestrantes/rozangela_costa.jpg",
+      "link": "https://youtube.com/live/-cdVVeqPYgM"
+    },
+    {
+      "date": "2023-02-16T23:00:59.064Z",
+      "nome": "Luiz Carlos Coutinho Dias",
+      "origem": "FREJA",
+      "foto": "/assets/images/palestrantes/luiz_carlos_coutinho_dias.png",
+      "tema": "\"ORAMOS\": Estudo Sobre o Livro 'Coragem' de Chico Xavier",
+      "dia_semana": "Quinta-Feira"
+    },
+    {
+      "date": "2023-02-23T23:00:29.945Z",
+      "foto": "/assets/images/palestrantes/anderson_do_nascimento_vargas.jpg",
+      "nome": "Anderson do Nascimento Vargas",
+      "origem": "FESLAR",
+      "tema": "A Mulher no Poço de Jacó",
+      "dia_semana": "Quinta-feira"
     }
   ]
 }
