@@ -267,7 +267,32 @@
       "nome": "Anderson do Nascimento Vargas",
       "origem": "FESLAR",
       "tema": "A Mulher no Poço de Jacó",
-      "dia_semana": "Quinta-feira"
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtube.com/live/7LnPyezj-b4"
+    },
+    {
+      "date": "2023-03-02T23:00:22.217Z",
+      "nome": "Wilson Ayub",
+      "origem": "AME-ES",
+      "foto": "/assets/images/palestrantes/Wilson Ayub - AMEEES.jpg",
+      "tema": "os Pés do Monte",
+      "dia_semana": "Quinta-Feira"
+    },
+    {
+      "date": "2023-03-09T23:00:33.379Z",
+      "nome": " Taciana Cristina Freitas de Lima",
+      "origem": "AME-ES",
+      "foto": "/assets/images/palestrantes/taciana_cristina.jpg",
+      "tema": "Despertar da Consciência",
+      "dia_semana": "Quinta-Feira"
+    },
+    {
+      "date": "2023-03-16T23:00:39.484Z",
+      "nome": "Cristina Soneghet Simon",
+      "tema": "Sonhos, uma breve visão da Psicologia e do Espiritismo",
+      "origem": "SPEE",
+      "foto": "/assets/images/palestrantes/Cristina Soneghet Simon-SPEE.png",
+      "dia_semana": "Quinta-Feira"
     }
   ]
 }
