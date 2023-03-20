@@ -303,6 +303,23 @@
       "foto": "/assets/images/palestrantes/adriani_geralda_ribeiro.jpg",
       "tema": "O Jugo Leve",
       "dia_semana": "Quinta-Feira"
+    },
+    {
+      "date": "2023-03-23T23:00:25.859Z",
+      "nome": "Adriani Geralda Ribeiro",
+      "origem": "GFEIC",
+      "tema": "O Jugo Leve",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtube.com/live/SgJ-Xtdwu4Q",
+      "foto": "/assets/images/palestrantes/adriani_geralda_ribeiro.jpg"
+    },
+    {
+      "date": "2023-03-30T23:00:25.245Z",
+      "nome": "Dalva Silva Souza",
+      "origem": "FEEES",
+      "foto": "/assets/images/palestrantes/Dalva_Silva_Souza-FEEES.jpg",
+      "tema": "Despertar da Consciência",
+      "dia_semana": "Quinta-feira"
     }
   ]
 }
