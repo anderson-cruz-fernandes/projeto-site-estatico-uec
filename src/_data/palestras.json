@@ -321,6 +321,33 @@
       "nome": "Luiz Humberto Dutra",
       "dia_semana": "Quinta-feira",
       "foto": "/assets/images/palestrantes/luis_humberto_dutra.jpg"
+    },
+    {
+      "date": "2023-04-13T23:00:25.697Z",
+      "nome": "Edmar Thiengo",
+      "tema": "Um Olhar Espírita Sobre As Pessoas Com Deficiência",
+      "origem": "NEIV",
+      "foto": "/assets/images/palestrantes/edmar_thiengo.jpg",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtube.com/live/mnVNkVTn338"
+    },
+    {
+      "date": "2023-04-20T23:00:20.584Z",
+      "nome": "Elizabeth Tolomelli",
+      "origem": "UEC",
+      "foto": "/assets/images/palestrantes/Elizabeth Tolomelli - UEC.jpg",
+      "tema": "Um Monumento Chamado Livro",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtube.com/live/0iNr9AykbSw"
+    },
+    {
+      "date": "2023-04-27T23:00:39.351Z",
+      "nome": "Bruno Cabral",
+      "tema": "Todas as Vidas Clamam por Amor",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtube.com/live/ago7dM5X418",
+      "origem": "GEAK Guarapari",
+      "foto": "/assets/images/palestrantes/bruno_cabral.jpg"
     }
   ]
 }
