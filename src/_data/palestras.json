@@ -348,6 +348,14 @@
       "link": "https://youtube.com/live/ago7dM5X418",
       "origem": "GEAK Guarapari",
       "foto": "/assets/images/palestrantes/bruno_cabral.jpg"
+    },
+    {
+      "date": "2023-05-04T23:00:05.432Z",
+      "nome": "Lucia Catabriga",
+      "tema": "Preservação da vida: uma reflexão sobre nosso planeta",
+      "foto": "/assets/images/palestrantes/Lucia Catabriga.jpg",
+      "origem": "GEJE",
+      "dia_semana": "Quinta-feira"
     }
   ]
 }
