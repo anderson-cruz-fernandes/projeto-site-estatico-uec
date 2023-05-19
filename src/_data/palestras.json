@@ -374,7 +374,16 @@
       "origem": "GEAK Guarapari",
       "foto": "/assets/images/palestrantes/alba_sampaio.jpg",
       "dia_semana": "Quinta-feira",
-      "link": "https://youtube.com/live/ZrGdhvi9Eq0?feature=share"
+      "link": "https://youtu.be/wlu3c9e3kTw"
+    },
+    {
+      "date": "2023-05-25T23:00:58.888Z",
+      "tema": "Reconciliar com os Adversários",
+      "nome": "Zilda Barbosa Mello",
+      "origem": "UEC",
+      "foto": "/assets/images/palestrantes/Zilda_Mello-UEC.jpg",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtube.com/live/Jx_269B_x3g"
     }
   ]
 }
