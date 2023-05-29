@@ -384,6 +384,15 @@
       "foto": "/assets/images/palestrantes/Zilda_Mello-UEC.jpg",
       "dia_semana": "Quinta-feira",
       "link": "https://youtube.com/live/Jx_269B_x3g"
+    },
+    {
+      "date": "2023-06-01T23:00:48.934Z",
+      "nome": "Antônio Romero Sant Anna",
+      "origem": "GEEAK",
+      "foto": "/assets/images/palestrantes/Antônio_Romero_Sant_Anna-GEEAK.jpg",
+      "tema": "O Poder da Fé",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtube.com/live/b4KKRalIWCE"
     }
   ]
 }
