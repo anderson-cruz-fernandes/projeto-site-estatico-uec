@@ -12,6 +12,8 @@ pagination:
       <div class="row">
         <div class="center col s12 m12 l12">
           <h2 class="teal-text">{{ title }}</h2>
+          <h7>Palestras presenciais seguidas de aplicação de passes.</h7>
+          <h7><b>Todas as quintas-feiras, às 20 horas<b></h7>
         </div>
       </div>  
       <!-- PROXIMAS PALESTRAS TERCA-FEIRA -->
@@ -28,7 +30,8 @@ pagination:
       <div class='row'></div>  
       -->
       <!-- FIM PROXIMAS PALESTRAS TERCA-FEIRA -->
-      <!-- PROXIMAS PALESTRAS QUINTA-FEIRA -->     
+      <!-- PROXIMAS PALESTRAS QUINTA-FEIRA -->
+<!--
       <div class="row">
         <div class="col s12 m12 l12">
           <div class="center icon-block">
@@ -38,6 +41,7 @@ pagination:
           </div>
         </div>
       </div>
+-->
       <div class='row'>      
       {%- for item in pagination.items | ehQuintaFeira -%}      
         <div class="col s12 m4 l4">
