@@ -420,6 +420,14 @@
       "tema": "A busca Do Melhor",
       "dia_semana": "Quinta-feira",
       "link": "https://youtube.com/live/Mfyswh6FOZk"
+    },
+    {
+      "date": "2023-06-29T23:00:00.162Z",
+      "nome": "Edmar Thiengo",
+      "tema": "NEIV",
+      "dia_semana": "Quinta-feira",
+      "foto": "/assets/images/palestrantes/edmar_thiengo.jpg",
+      "origem": "NEIV"
     }
   ]
 }
