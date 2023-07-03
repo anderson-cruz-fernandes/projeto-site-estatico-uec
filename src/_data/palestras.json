@@ -429,6 +429,15 @@
       "foto": "/assets/images/palestrantes/edmar_thiengo.jpg",
       "origem": "NEIV",
       "link": "https://youtube.com/live/3gO4QStzF64"
+    },
+    {
+      "date": "2023-07-06T23:00:08.554Z",
+      "link": "https://youtube.com/live/NUWjiJru488",
+      "dia_semana": "Quinta-feira",
+      "tema": "A Cura Da Hanseníase",
+      "nome": "Elizabeth Tolomelli",
+      "origem": "UEC",
+      "foto": "/assets/images/palestrantes/Elizabeth Tolomelli - UEC.jpg"
     }
   ]
 }
