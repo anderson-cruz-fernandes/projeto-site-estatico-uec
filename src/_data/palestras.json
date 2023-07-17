@@ -447,6 +447,15 @@
       "origem": "AMEEES",
       "nome": "Taciana Lima",
       "foto": "/assets/images/palestrantes/taciana_cristina.jpg"
+    },
+    {
+      "date": "2023-07-20T23:00:02.720Z",
+      "nome": "Filippe Rocha",
+      "origem": "FEEES",
+      "foto": "/assets/images/palestrantes/Fillippe Borges - UEC.jpg",
+      "tema": "Espiritismo e Internet",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtube.com/live/xwoPMRLuXl8"
     }
   ]
 }
