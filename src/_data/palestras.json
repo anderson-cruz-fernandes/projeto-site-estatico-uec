@@ -492,6 +492,15 @@
       "foto": "/assets/images/palestrantes/Cristina Soneghet Simon-SPEE.png",
       "dia_semana": "Quinta-feira",
       "link": "https://youtube.com/live/2xZ-wsrzZ5Y"
+    },
+    {
+      "date": "2023-08-24T23:00:04.200Z",
+      "nome": "Bruno Cabral",
+      "tema": "O Tanque de Betesda",
+      "link": "https://youtube.com/live/mH5GiCPHTWY",
+      "dia_semana": "Quinta-feira",
+      "origem": "GEAK Guarapari",
+      "foto": "/assets/images/palestrantes/bruno_cabral.jpg"
     }
   ]
 }
