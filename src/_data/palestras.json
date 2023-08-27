@@ -501,6 +501,15 @@
       "dia_semana": "Quinta-feira",
       "origem": "UEC",
       "foto": "/assets/images/palestrantes/Lijamar Iee.jpg"
+    },
+    {
+      "date": "2023-08-31T23:00:49.998Z",
+      "nome": "Zilda Mello",
+      "origem": "UEC",
+      "tema": "Marta, Maria e Maria de Magdala",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtube.com/live/8uVykIKLmr8",
+      "foto": "/assets/images/palestrantes/Zilda_Mello-UEC.jpg"
     }
   ]
 }
