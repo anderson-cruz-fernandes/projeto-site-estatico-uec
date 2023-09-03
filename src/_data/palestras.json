@@ -510,6 +510,15 @@
       "dia_semana": "Quinta-feira",
       "link": "https://youtube.com/live/8uVykIKLmr8",
       "foto": "/assets/images/palestrantes/Zilda_Mello-UEC.jpg"
+    },
+    {
+      "date": "2023-09-07T23:00:04.559Z",
+      "link": "https://youtube.com/live/PvtH2rsGivk",
+      "nome": "Gabriel Renaud Galvao Valejo",
+      "foto": "/assets/images/palestrantes/Gabriel_Valejo.jpg",
+      "origem": "GEPJCGR",
+      "tema": "1.019 Razões para viver",
+      "dia_semana": "Quinta-feira"
     }
   ]
 }
