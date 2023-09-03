@@ -519,6 +519,22 @@
       "origem": "GEPJCGR",
       "tema": "1.019 Razões para viver",
       "dia_semana": "Quinta-feira"
+    },
+    {
+      "date": "2023-09-14T23:00:39.410Z",
+      "nome": "Luiz Henrique Moraes Machado",
+      "origem": "UEC",
+      "foto": "/assets/images/palestrantes/luiz_henrique.jpg",
+      "tema": "Para o Alvo",
+      "dia_semana": "Quinta-feira"
+    },
+    {
+      "date": "2023-09-21T23:00:44.843Z",
+      "tema": "O Tanque de Betesda",
+      "nome": "Bruno Cabral",
+      "foto": "/assets/images/palestrantes/bruno_cabral.jpg",
+      "dia_semana": "Quinta-feira",
+      "origem": "GEAK Guarapari"
     }
   ]
 }
