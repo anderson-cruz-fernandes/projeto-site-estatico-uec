@@ -582,6 +582,15 @@
       "foto": "/assets/images/palestrantes/helio_tinoco.jpg",
       "dia_semana": "Quinta-feira",
       "link": "https://youtube.com/live/2bCcJC69tvM"
+    },
+    {
+      "date": "2023-11-02T23:00:07.768Z",
+      "nome": "Edmar Thiengo",
+      "origem": "NEIV",
+      "foto": "/assets/images/palestrantes/edmar_thiengo.jpg",
+      "tema": "Os Semeadores de Estrelas e o Livre Arbítrio",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtube.com/live/oFPkQpPC-o0"
     }
   ]
 }
