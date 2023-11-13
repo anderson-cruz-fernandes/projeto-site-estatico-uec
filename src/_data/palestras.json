@@ -600,6 +600,22 @@
       "dia_semana": "Quinta-feira",
       "link": "https://youtube.com/live/LYrUYDM-2v4",
       "foto": "/assets/images/palestrantes/Gabriel_Valejo.jpg"
+    },
+    {
+      "date": "2023-11-23T23:00:13.699Z",
+      "nome": "Dalva Silva Souza",
+      "origem": "FEEES",
+      "foto": "/assets/images/palestrantes/Dalva_Silva_Souza-FEEES.jpg",
+      "tema": "Laços de Família / Planejamento Reeencarnatório (Lei de Sociedade)",
+      "dia_semana": "Quinta-feira"
+    },
+    {
+      "date": "2023-11-30T23:00:41.317Z",
+      "nome": "Bruno Cabral",
+      "origem": "GEAK Guarapari",
+      "foto": "/assets/images/palestrantes/bruno_cabral.jpg",
+      "tema": "Caminho, Verdade e Vida (Lei de Justiça, amor e caridade)",
+      "dia_semana": "Quinta-feira"
     }
   ]
 }
