@@ -616,6 +616,15 @@
       "foto": "/assets/images/palestrantes/bruno_cabral.jpg",
       "tema": "Caminho, Verdade e Vida (Lei de Justiça, amor e caridade)",
       "dia_semana": "Quinta-feira"
+    },
+    {
+      "date": "2023-11-23T23:00:08.117Z",
+      "link": "https://youtube.com/live/LYrUYDM-2v4",
+      "dia_semana": "Quinta-feira",
+      "tema": "Minha Família na Construção da Sociedade",
+      "foto": "/assets/images/palestrantes/Dalva_Silva_Souza-FEEES.jpg",
+      "origem": "FEEES",
+      "nome": "Dalva Silva Souza"
     }
   ]
 }
