@@ -618,6 +618,30 @@
       "tema": "Caminho, Verdade e Vida (Lei de Justiça, amor e caridade)",
       "dia_semana": "Quinta-feira",
       "link": "https://youtube.com/live/8s3VUWgYOFk"
+    },
+    {
+      "date": "2023-12-07T23:00:56.980Z",
+      "nome": "Lucia Catabriga",
+      "origem": "GEJE",
+      "foto": "/assets/images/palestrantes/Lucia Catabriga.jpg",
+      "tema": "Uma reflexão sobre o Ressentimento",
+      "dia_semana": "Quinta-feira"
+    },
+    {
+      "date": "2023-12-14T23:00:23.067Z",
+      "nome": "Dalva Silva Souza",
+      "tema": "Família - Projeto Divino",
+      "dia_semana": "Quinta-feira",
+      "foto": "/assets/images/palestrantes/Dalva_Silva_Souza-FEEES.jpg",
+      "origem": "FEEES"
+    },
+    {
+      "date": "2023-12-21T23:00:56.182Z",
+      "nome": "Cristina Soneghet Simon",
+      "tema": "Jesus, Mestre e Amigo",
+      "foto": "/assets/images/palestrantes/Cristina Soneghet Simon-SPEE.png",
+      "origem": "SPEE",
+      "dia_semana": "Quinta-feira"
     }
   ]
 }
