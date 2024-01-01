@@ -654,6 +654,15 @@
       "dia_semana": "Quinta-feira",
       "link": "https://youtube.com/live/JXsI6_2pDv4",
       "foto": "/assets/images/palestrantes/marco_antonio_redinz.jpg"
+    },
+    {
+      "date": "2024-01-04T23:00:01.545Z",
+      "nome": "Denyse Soares",
+      "tema": "O Homem com Jesus",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtube.com/live/TgujzCnSGhk",
+      "foto": "/assets/images/palestrantes/sem-imagem.png",
+      "origem": "UEJ"
     }
   ]
 }
