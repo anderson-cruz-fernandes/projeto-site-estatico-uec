@@ -663,6 +663,30 @@
       "link": "https://youtube.com/live/TgujzCnSGhk",
       "foto": "/assets/images/palestrantes/sem-imagem.png",
       "origem": "UEJ"
+    },
+    {
+      "date": "2024-01-11T23:00:43.130Z",
+      "tema": "Jesus Caminha Sobra as Águas",
+      "foto": "/assets/images/palestrantes/Elizabeth Tolomelli - UEC.jpg",
+      "origem": "UEC",
+      "nome": "Beth Tolomelli",
+      "dia_semana": "Quinta-feira"
+    },
+    {
+      "date": "2024-01-18T23:00:52.071Z",
+      "nome": "Lijamar Iee",
+      "origem": "UEC",
+      "foto": "/assets/images/palestrantes/Lijamar Iee.jpg",
+      "dia_semana": "Quinta-feira",
+      "tema": "Quem se ama deixa ir"
+    },
+    {
+      "date": "2024-01-25T23:00:32.980Z",
+      "nome": "Gabriel Valejo",
+      "origem": "ASSEB/GEPJCGR",
+      "dia_semana": "Quinta-feira",
+      "foto": "/assets/images/palestrantes/Gabriel_Valejo.jpg",
+      "tema": "Perdão e os Relacionamentos Familiares"
     }
   ]
 }
