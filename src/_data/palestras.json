@@ -716,6 +716,22 @@
       "foto": "/assets/images/palestrantes/luiz_henrique.jpg",
       "tema": "Ouvistes? Vinha de Luz",
       "dia_semana": "Quinta-feira"
+    },
+    {
+      "date": "2024-02-22T23:00:54.956Z",
+      "nome": "Antônio Cerutti",
+      "origem": "UECEL",
+      "foto": "/assets/images/palestrantes/Antonio Carlos Cerutti.jpg",
+      "tema": "Um olhar sobre a caridade e a compaixão",
+      "dia_semana": "Quinta-feira"
+    },
+    {
+      "date": "2024-02-29T23:00:06.976Z",
+      "nome": "Pedro Herbert Casimiro Onofre",
+      "origem": "SPEE",
+      "foto": "/assets/images/palestrantes/pedro_herbert_casimiro_onofre.jpg",
+      "tema": "Necessidade da Caridade Segundo Paulo",
+      "dia_semana": "Quinta-feira"
     }
   ]
 }
