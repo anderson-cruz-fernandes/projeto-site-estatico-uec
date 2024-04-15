@@ -789,6 +789,15 @@
       "foto": "/assets/images/palestrantes/helio_tinoco.jpg",
       "dia_semana": "Quinta-feira",
       "link": "https://youtube.com/live/gX1eCv4UAEI"
+    },
+    {
+      "date": "2024-04-18T23:00:11.194Z",
+      "nome": "Marco Antonio Redinz",
+      "origem": "UEC",
+      "foto": "/assets/images/palestrantes/marco_antonio_redinz.jpg",
+      "tema": "A Caminho da Luz com Jesus",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtube.com/live/n5G5AD6ITU4"
     }
   ]
 }
