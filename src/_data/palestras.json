@@ -852,6 +852,15 @@
       "foto": "/assets/images/palestrantes/pedro_herbert_casimiro_onofre.jpg",
       "origem": "SPEE",
       "nome": "Pedro Herbert Onofre"
+    },
+    {
+      "date": "2024-06-13T23:00:41.769Z",
+      "nome": "Cristina Soneghet Simon",
+      "origem": "SPEE",
+      "foto": "/assets/images/palestrantes/Cristina Soneghet Simon-SPEE.png",
+      "tema": "Sonhos - Uma Breve Visão da Psicologia e do Espiritismo",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtube.com/live/xyZS3cemoiY"
     }
   ]
 }
