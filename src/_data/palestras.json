@@ -879,6 +879,15 @@
       "foto": "/assets/images/palestrantes/Joao_Carlos_Graca.jpg",
       "origem": "CELD",
       "nome": "João Carlos Graça"
+    },
+    {
+      "date": "2024-07-04T23:00:32.931Z",
+      "nome": "Marco Antonio Redinz",
+      "origem": "UEC",
+      "foto": "/assets/images/palestrantes/marco_antonio_redinz.jpg",
+      "tema": "Jesus Em Nós",
+      "dia_semana": "Quinta-feira",
+      "link": "https://youtube.com/live/9P6MZs7-1i8"
     }
   ]
 }
