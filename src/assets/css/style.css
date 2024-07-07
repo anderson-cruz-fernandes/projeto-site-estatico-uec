@@ -15,6 +15,7 @@ html {
 .slider .slides li img {
     background-size:100% auto;
     background-repeat: no-repeat;
+    background-position: bottom center;
     background-color: #FFF;
 }
 
