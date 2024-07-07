@@ -1,9 +1,6 @@
 ---
 title: Palestras da UEC
 layout: 'base.njk'
-pagination:  
-  data: palestras.palestras
-  size: 3
 ---
 <div class="container">  
   <div class="row">  
@@ -12,91 +9,18 @@ pagination:
       <div class="row">
         <div class="center col s12 m12 l12">
           <h2 class="teal-text">{{ title }}</h2>
-          <h7>Palestras presenciais seguidas de aplicação de passes.</h7>
-          <h7><b>Todas as quintas-feiras, às 20 horas<b></h7>
-        </div>
-      </div>  
-      <!-- PROXIMAS PALESTRAS TERCA-FEIRA -->
-      <!--
-      <div class="row">
-        <div class="col s12 m12 l12">
-          <div class="center icon-block">
-            <h2 class="center brown-text"><i class="material-icons">person_pin</i></h2>
-            <h4 class="center">Terça-Feira</h4>
-            <h5 class="center">16:00</h5>
-          </div>
-        </div>
-      </div>  
-      <div class='row'></div>  
-      -->
-      <!-- FIM PROXIMAS PALESTRAS TERCA-FEIRA -->
-      <!-- PROXIMAS PALESTRAS QUINTA-FEIRA -->
-<!--
-      <div class="row">
-        <div class="col s12 m12 l12">
-          <div class="center icon-block">
-            <h2 class="center brown-text"><i class="material-icons">person_pin</i></h2>
-            <h4 class="center">Quinta-Feira</h4>
-            <h5 class="center">20:00</h5>
-          </div>
+          <h7>Palestras presenciais seguidas de aplicação de passes. <b>Todas as quintas-feiras, às 20 horas</b>.</br> Além disso, as palestras são transmitidas ao vivo pelo YouTube!</br><b>&#128071;Acesse nossas transmissões abaixo&#128071;</b></h7>
+              
         </div>
       </div>
--->
-      <div class='row'>      
-      {%- for item in pagination.items | ehQuintaFeira -%}      
-        <div class="col s12 m4 l4">
-          <div class="center icon-block">
-            <hr>
-            <h6 class="teal-text">{{ item.tema }}</h6>
-            <h5>{{ item.date | postDate }}</h5>
-            <span class="light">
-              <img class='responsive-img' src='{{ item.foto }}' width='145px'>              
-              <br>
-              <span style="font-size: 12px;">
-                Expositor:
-              </span>
-              <br>
-              <span style="font-size: 16px;font-weight: bold;">{{ item.nome }}</span>
-              <br>
-              <span style="font-size: 14px;">{{ item.origem }}</span>
-              <br>
-              <span style="font-size: 14px;"></span>
-              {%- if item.link -%}
-              <span style="font-size: 14px;">
-                <a href='{{ item.link }}' target='_blank'><img src='/assets/images/icon_assistir.png' width='150px' /></a>
-              </span>
-              {%- endif -%}
-            </span>
-          </div>
+      <div class="row">
+        <div class="center col s12 m12 l12">
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/videoseries?list=PLzpwIHc2DxHVI_EKTqdwv3bJaCXfiPTus&rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
         </div>
-        {%- endfor-%}   
       </div>
       <!-- FIM PROXIMAS PALESTRAS QUINTA-FEIRA -->
-      <!-- PROXIMAS PALESTRAS SABADO -->
-      <!--
-      <div class="row">
-        <div class="col s12 m12 l12">
-          <div class="center icon-block">
-            <h2 class="center brown-text"><i class="material-icons">person_pin</i></h2>
-            <h4 class="center">Sábado</h4>
-            <h5 class="center">18:00</h5>
-          </div>
-        </div>
-      </div>  
-      <div class='row'></div>
-      -->
-      <!-- FIM PROXIMAS PALESTRAS SABADO -->
-      <!-- BARRA NAVEGACAO -->
-      <div class="row center">
-          <ul class="pagination">
-            <li>{%- if pagination.href.previous -%}<a href="{{ pagination.href.previous }}"><i class="material-icons">chevron_left</i></a>{%- endif -%}</li>
-            {%- for pageEntry in pagination.items | setPaginaInicialPalestrantes(pagination.pageNumber) -%}
-              <li {%- if pagination.pageNumber+1 == loop.index -%}{%- set ativado = ' class=active' -%}{{ ativado }}{%- endif -%}><a href="{{ pagination.hrefs[loop.index0] }}">{{ loop.index }}</a></li>
-            {%- endfor -%}
-            <li>{%- if pagination.href.next -%}<a href="{{ pagination.href.next }}"><i class="material-icons">chevron_right</i></a>{%- endif -%}</li>
-          </ul>
-      </div>
-      <!-- FIM BARRA NAVEGACAO -->
       {% include "redes-sociais.njk" %}    
     </div>    
     <!-- COLUNA CENTRAL -->
