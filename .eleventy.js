@@ -9,6 +9,10 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./src/style.css');
   eleventyConfig.addPassthroughCopy('./src/assets');
 
+  eleventyConfig.addFilter("currentYear", function() {
+    return new Date().getFullYear();
+  });
+
   /* eleventyConfig.addFilter("postHour", (dateObj) => {  
      return DateTime.fromFormat(dateObj,'dd/MM/yyyy HH:mm', { locale: 'pt-br' }).toLocaleString(DateTime.TIME_24_SIMPLE);    
    });*/
