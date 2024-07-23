@@ -3,5 +3,3 @@ replit.nix
 .breakpoints
 node_modules/
 _site/
-src/admin/
-admin.tar.gz
