@@ -12,10 +12,11 @@ https://cadastro-colaboradores.uec.org.br           https://forms.gle/M2VKq36cm2
 /mensal100                                          https://pag.ae/blp3WnL 301!
 /youtube                                            https://www.youtube.com/@uniaoespiritacrista 301!
 https://100anos.uec.org.br/*                        /100anos/:splat 200!
+
+
+# Redirects desativados
 #https://almoco97anos.uec.org.br                     https://docs.google.com/forms/d/15EM26CKXIQ84S0isn93lyupqw4FOceMMnHsuAUjwB_c 301!
 #https://xn--almoo97anos-p9a.uec.org.br              https://docs.google.com/forms/d/15EM26CKXIQ84S0isn93lyupqw4FOceMMnHsuAUjwB_c 301!
-
-# Redirects nao habilitados
 #/rss                                                /feed/podcast.xml  301
 #/feed                                               /feed/podcast.xml  301
 #https://bazar.uec.org.br                            https://www.goomer.app/uec-bazar-virtual 301!
