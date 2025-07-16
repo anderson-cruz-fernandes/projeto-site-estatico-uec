@@ -1,5 +1,3 @@
-https://cursos.uec.org.br/segunda-feira-semestre-1  /cursos/acesso-segunda.html 200!
-https://cursos.uec.org.br/quarta-feira-semestre-1   /cursos/acesso-segunda.html 200!
 https://cursos.uec.org.br/segunda-feira-semestre-2  /cursos/acesso-segunda.html 200!
 https://cursos.uec.org.br/quarta-feira-semestre-2   /cursos/acesso-quarta.html 200!
 https://cursos.uec.org.br                           /cursos/inscricoes.html 200!
@@ -14,9 +12,12 @@ https://cadastro-colaboradores.uec.org.br           https://forms.gle/M2VKq36cm2
 /mensal100                                          https://pag.ae/blp3WnL 301!
 /youtube                                            https://www.youtube.com/@uniaoespiritacrista 301!
 https://100anos.uec.org.br/*                        /100anos/:splat 200!
+#https://noite-de-pizza.uec.org.br                   https://forms.gle/RhSUSxQPirzvPsrv7 301!
 
 
 # Redirects desativados
+#https://cursos.uec.org.br/segunda-feira-semestre-1  /cursos/acesso-segunda.html 200!
+#https://cursos.uec.org.br/quarta-feira-semestre-1   /cursos/acesso-quarta.html 200!
 #https://almoco97anos.uec.org.br                     https://docs.google.com/forms/d/15EM26CKXIQ84S0isn93lyupqw4FOceMMnHsuAUjwB_c 301!
 #https://xn--almoo97anos-p9a.uec.org.br              https://docs.google.com/forms/d/15EM26CKXIQ84S0isn93lyupqw4FOceMMnHsuAUjwB_c 301!
 #/rss                                                /feed/podcast.xml  301
