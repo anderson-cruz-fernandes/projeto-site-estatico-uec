@@ -13,7 +13,7 @@ permalink: /cursos/inscricoes.html
     <title>Inscrições Cursos UEC</title>
     <style>
       body {
-          background-image: url(/assets/images/fundo_azul.jpg);*/ /* The image used for background*/
+          background-image: url(/assets/images/fundo_azul.jpg); /* The image used for background */
           background-repeat: no-repeat; /* Do not repeat the image */
           background-position: center; /* Center the image */
           background-size: cover; /* Resize the background image to cover the entire container */
@@ -119,28 +119,48 @@ permalink: /cursos/inscricoes.html
         </a>
         -->
         
-        <button onclick="alert('As inscrições para o IEE de 2025 estão encerradas. Agradecemos pelo interesse e informamos que em breve abriremos inscrições para o primeiro semestre de 2026.')" class="w3-button w3-hover-blue w3-round w3-white w3-border link">
+        <button id="btn-iee-encerrado" onclick="alert('As inscrições para o IEE de 2025 estão encerradas. Agradecemos pelo interesse e informamos que em breve abriremos inscrições para o primeiro semestre de 2026.')" class="w3-button w3-hover-blue w3-round w3-white w3-border link">
           <p class="w3-center"><i class="fab fa-regular">Inscrições - Introdução ao Estudo do Espiritismo -<br><b>IEE</b> (online e presencial)</i></p>
         </button>
-        <br>        
+        <br>
+        
+        <button id="btn-obras-encerrado" onclick="alert('As inscrições para o Estudo das Obras Básicas de 2025 estão encerradas. Agradecemos pelo interesse e informamos que em breve abriremos inscrições para o primeiro semestre de 2026.')" class="w3-button w3-hover-blue w3-round w3-white w3-border link">
+          <p><i class="fab fa-regular">Inscrições - <b>Estudo das Obras Básicas</b>:<br>O Livro dos Espíritos (online)</i></p>
+        </button>
 
-        <!--
-        <a href="https://forms.gle/bp9i8KYQaHeskahr5" class="w3-button w3-hover-blue w3-round w3-white w3-border link" target="_blank">
+        <a id="btn-iee-esde-eade" href="https://forms.gle/Gv7XavjbwRLKeyTi8" class="w3-button w3-hover-blue w3-round w3-white w3-border link" target="_blank">
           <p class="w3-center"><i class="fab fa-regular">Inscrições - <b>Cursos IEE, ESDE e EADE</b> (online)</i></p>
         </a>
         <br>
-        -->
 
-        <!--
-        <a href="https://forms.gle/pbsqr6V8zpUNUNDK7" class="w3-button w3-hover-blue w3-round w3-white w3-border link" target="_blank">
+        <a id="btn-obras" href="https://forms.gle/6GaXd8GQTwGZTPv36" class="w3-button w3-hover-blue w3-round w3-white w3-border link" target="_blank">
           <p><i class="fab fa-regular">Inscrições - <b>Estudo das Obras Básicas</b>:<br>O Livro dos Espíritos (online)</i></p>
         </a>
-        -->
-        <button onclick="alert('As inscrições para o Estudo das Obras Básicas de 2025 estão encerradas. Agradecemos pelo interesse e informamos que em breve abriremos inscrições para o primeiro semestre de 2026.')" class="w3-button w3-hover-blue w3-round w3-white w3-border link">
-          <p><i class="fab fa-regular">Inscrições - <b>Estudo das Obras Básicas</b>:<br>O Livro dos Espíritos (online)</i></p>
-        </button>
 
       </div>
     </div>
+    <script>
+      // Data limite: 05/12 às 22:00 (horário local)
+      const dataLimite = new Date(2025, 11, 5, 22, 0, 0);
+      const agora = new Date();
+
+      const btnIEEEncerrado = document.getElementById("btn-iee-encerrado");
+      const btnObrasEncerrado = document.getElementById("btn-obras-encerrado");
+      const btnIEE_ESDE_EADE = document.getElementById("btn-iee-esde-eade");
+      const btnObras = document.getElementById("btn-obras");
+
+      if (agora >= dataLimite) {
+        if (btnIEEEncerrado) btnIEEEncerrado.style.display     = "none";
+        if (btnObrasEncerrado) btnObrasEncerrado.style.display = "none";
+        if (btnIEE_ESDE_EADE) btnIEE_ESDE_EADE.style.display   = "block";
+        if (btnObras) btnObras.style.display                   = "block";
+      } else {
+        if (btnIEEEncerrado) btnIEEEncerrado.style.display     = "block";
+        if (btnObrasEncerrado) btnObrasEncerrado.style.display = "block";
+        if (btnIEE_ESDE_EADE) btnIEE_ESDE_EADE.style.display   = "none";
+        if (btnObras) btnObras.style.display                   = "none";
+      }
+    </script>
+
   </body>
 </html>
