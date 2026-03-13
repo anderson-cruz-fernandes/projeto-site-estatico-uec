@@ -132,6 +132,11 @@ permalink: /cursos/inscricoes.html
         </button>
         -->
 
+        <a id="btn-iee" href="https://forms.gle/xhiocLNcuLYis2yKA" class="w3-button w3-hover-blue w3-round w3-white w3-border link" target="_blank">
+          <p class="w3-center"><i class="fab fa-regular">Inscrições - <b>Curso IEE</b></i></p>
+        </a>
+        <br>
+
         <a id="btn-iee-esde-eade" href="https://forms.gle/Gv7XavjbwRLKeyTi8" class="w3-button w3-hover-blue w3-round w3-white w3-border link" target="_blank">
           <p class="w3-center"><i class="fab fa-regular">Inscrições - <b>Cursos IEE, ESDE e EADE</b></i></p>
         </a>
@@ -144,12 +149,25 @@ permalink: /cursos/inscricoes.html
       </div>
     </div>
 
-    <!--
+
     <script>
-      // Data limite: 05/12 às 22:00 (horário local)
-      const dataLimite = new Date(2025, 11, 15, 22, 0, 0);
+      // Data limite: 15/03/2026 às 22:00 (horário local)
+      const dataLimite = new Date(2026, 2, 15, 22, 0, 0);
       const agora = new Date();
 
+      const btnIEE_ESDE_EADE = document.getElementById("btn-iee-esde-eade");
+      const btnIEE = document.getElementById("btn-iee");
+
+      if (agora >= dataLimite) {
+        if (btnIEE_ESDE_EADE) btnIEE_ESDE_EADE.style.display   = "none";
+        if (btnIEE) btnIEE.style.display                       = "block";
+      } else {
+        if (btnIEE_ESDE_EADE) btnIEE_ESDE_EADE.style.display   = "block";
+        if (btnIEE) btnIEE.style.display                       = "none";
+      }
+
+      /*
+      // Data limite: 05/12 às 22:00 (horário local)
       const btnIEEEncerrado = document.getElementById("btn-iee-encerrado");
       const btnObrasEncerrado = document.getElementById("btn-obras-encerrado");
       const btnIEE_ESDE_EADE = document.getElementById("btn-iee-esde-eade");
@@ -166,7 +184,8 @@ permalink: /cursos/inscricoes.html
         if (btnIEE_ESDE_EADE) btnIEE_ESDE_EADE.style.display   = "none";
         if (btnObras) btnObras.style.display                   = "none";
       }
+      */
     </script>
-    -->
+
   </body>
 </html>
