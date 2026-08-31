@@ -1,0 +1,29 @@
+---
+permalink: /estudos/inscricao.html
+---
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+      <title>Estudos - UEC</title>
+
+        <script>
+            const DATA_TROCA = "2026-09-01T00:00:00-03:00";
+
+            const LINK_ANTIGO = "https://forms.gle/VpsS2PV3bqHTfccJA";
+            const LINK_NOVO   = "https://forms.gle/dE6pbxinSaeLHg9dA";
+
+            const destino = new Date() < new Date(DATA_TROCA)
+                ? LINK_ANTIGO
+                : LINK_NOVO;
+
+            window.location.replace(destino);
+      </script>
+  </head>
+
+  <body>
+      <p>Redirecionando...</p>
+  </body>
+</html>
